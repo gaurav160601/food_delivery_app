@@ -16,6 +16,9 @@ dist/
 # OS
 .DS_Store
 
+# playwright scratch output
+.playwright-mcp/
+
 # scratch / course notes (not part of the app)
 chk3.js
 lecture-4 making compoent with har coded data.js

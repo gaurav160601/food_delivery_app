@@ -95,7 +95,9 @@ Then open the URL Parcel prints in the terminal (default `http://localhost:1234`
 
 ## 📸 Screenshots
 
-_Add screenshots or a short demo GIF here._
+**Home page — restaurant listing, search, and Top Rated filter**
+
+![Home page](docs/home.png)
 
 ---
 
