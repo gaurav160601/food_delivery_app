@@ -99,6 +99,14 @@ Then open the URL Parcel prints in the terminal (default `http://localhost:1234`
 
 ![Home page](docs/home.png)
 
+**Restaurant menu — collapsible category accordions with add-to-cart**
+
+![Restaurant menu](docs/menu.png)
+
+**Cart — quantity controls, live total, and clear cart**
+
+![Cart](docs/cart.png)
+
 ---
 
 ## 👤 Author
