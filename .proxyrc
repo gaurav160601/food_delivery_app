@@ -1,0 +1,10 @@
+{
+  "/restaurant-api": {
+    "target": "https://restaurant-api.dicoding.dev",
+    "pathRewrite": {
+      "^/restaurant-api": ""
+    },
+    "changeOrigin": true,
+    "secure": false
+  }
+}

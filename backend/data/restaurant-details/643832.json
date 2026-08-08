@@ -1,0 +1,1354 @@
+{
+    "statusCode": 0,
+    "data": {
+        "statusMessage": "done successfully",
+        "cards": [
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+                        "text": "WeFit - Protein Bowls, Salads & Sandwiches",
+                        "headerStyling": {
+                            "textColor": "text_Highest_Emphasis",
+                            "textVariant": "header_H3_Black"
+                        }
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+                        "tabs": [
+                            {
+                                "id": "Order Online",
+                                "title": "Order Online"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                        "info": {
+                            "id": "643832",
+                            "name": "WeFit - Protein Bowls, Salads & Sandwiches",
+                            "city": "Bangalore",
+                            "slugs": {
+                                "restaurant": "wefit-protein-bowls-salads-and-sandwiches-central_bangalore",
+                                "city": "bangalore"
+                            },
+                            "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/3/c64e7364-7909-417f-a850-ea89f41c318e_643832.jpg",
+                            "locality": "Langford Road",
+                            "areaName": "Central Bangalore",
+                            "costForTwo": "₹250 for two",
+                            "costForTwoMessage": "₹NaN for two",
+                            "cuisines": [
+                                "Healthy Food",
+                                "Salads",
+                                "Keto",
+                                "Snacks"
+                            ],
+                            "avgRating": 4.7,
+                            "feeDetails": {
+                                "restaurantId": "643832",
+                                "fees": [
+                                    {}
+                                ]
+                            },
+                            "parentId": "355285",
+                            "avgRatingString": "4.7",
+                            "totalRatingsString": "1.0K+",
+                            "sla": {
+                                "restaurantId": "643832",
+                                "deliveryTime": 25,
+                                "minDeliveryTime": 25,
+                                "maxDeliveryTime": 35,
+                                "lastMileTravel": 4.5,
+                                "serviceability": "SERVICEABLE",
+                                "stressFactor": 1,
+                                "rainMode": "RAIN_MODE_NONE",
+                                "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                                "zoneId": 68,
+                                "slaString": "20-30 mins",
+                                "lastMileTravelString": "4.5 km",
+                                "iconType": "ICON_TYPE_EMPTY"
+                            },
+                            "availability": {
+                                "nextCloseTime": "2026-08-02 03:00:00",
+                                "opened": true,
+                                "visibility": true,
+                                "restaurantClosedMeta": {}
+                            },
+                            "aggregatedDiscountInfo": {
+                                "header": "ITEMS",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "ITEMS | Use WELCOME",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "FREE DELIVERY",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "ITEMS | Use WELCOME Above ₹199",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "FREE DELIVERY",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "visible": true
+                            },
+                            "badges": {
+                                "imageBadges": [
+                                    {
+                                        "imageId": "Health%20Hub/RX%20BADGE/BADGE2.png",
+                                        "description": "Meals with high protein, low calorie and no added sugar"
+                                    }
+                                ]
+                            },
+                            "slugString": "wefit-protein-bowls-salads-and-sandwiches-central_bangalore",
+                            "labels": [
+                                {
+                                    "title": "Timings",
+                                    "message": "null"
+                                },
+                                {
+                                    "title": "Address",
+                                    "message": "Langford Road, Central Bangalore, Bangalore, Karnataka 560001"
+                                },
+                                {
+                                    "title": "Cuisines",
+                                    "message": "Healthy Food,Salads,Keto,Snacks"
+                                }
+                            ],
+                            "totalRatings": 1200,
+                            "aggregatedDiscountInfoV2": {
+                                "header": "ITEMS",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "ITEMS | Use WELCOME",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "FREE DELIVERY",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "ITEMS | Use WELCOME Above ₹199",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "FREE DELIVERY",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "couponDetailsCta": "View coupon details"
+                            },
+                            "type": "F",
+                            "similarRestaurantAvailable": "false",
+                            "headerBanner": {
+                                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/643832"
+                            },
+                            "tradeCampaignHeadersV2": [
+                                {
+                                    "discountType": "Percentage"
+                                },
+                                {
+                                    "discountType": "FREE_DELIVERY"
+                                }
+                            ],
+                            "availabilityServiceabilityMessage": "Temporarily closed for delivery",
+                            "orderabilityCommunication": {
+                                "title": {
+                                    "text": "Currently"
+                                },
+                                "subTitle": {
+                                    "text": "CLOSED"
+                                },
+                                "message": {
+                                    "text": "Uh-oh! Outlet is not accepting orders at the moment. They should be back by 11:00 AM",
+                                    "textColour": "primary"
+                                },
+                                "customIcon": {
+                                    "bgGradientColorStart": "#EB8322",
+                                    "bgGradientColorEnd": "#EE5803"
+                                },
+                                "commsStyling": {}
+                            },
+                            "hasBestsellerItems": true,
+                            "cartOrderabilityNudgeBanner": {
+                                "parameters": {},
+                                "presentation": {}
+                            },
+                            "latLong": "12.9715987,77.5945627",
+                            "backgroundImageOverlayInfo": {},
+                            "featuredSectionInfo": {},
+                            "timingsInfo": {
+                                "status": "Closed",
+                                "message": "Opens 11:00 am",
+                                "outletTiming": {
+                                    "infoList": [
+                                        {
+                                            "title": "Monday",
+                                            "subtitle": "11.00AM - 11.00PM",
+                                            "titleColor": "text_high_emphasis",
+                                            "subtitleColor": "text_high_emphasis"
+                                        },
+                                        {
+                                            "title": "Tuesday",
+                                            "subtitle": "11.00AM - 11.00PM",
+                                            "titleColor": "text_high_emphasis",
+                                            "subtitleColor": "text_high_emphasis"
+                                        },
+                                        {
+                                            "title": "Wednesday",
+                                            "subtitle": "11.00AM - 11.00PM",
+                                            "titleColor": "text_high_emphasis",
+                                            "subtitleColor": "text_high_emphasis"
+                                        },
+                                        {
+                                            "title": "Thursday",
+                                            "subtitle": "11.00AM - 11.00PM",
+                                            "titleColor": "text_high_emphasis",
+                                            "subtitleColor": "text_high_emphasis"
+                                        },
+                                        {
+                                            "title": "Friday",
+                                            "subtitle": "11.00AM - 11.00PM",
+                                            "titleColor": "text_high_emphasis",
+                                            "subtitleColor": "text_high_emphasis"
+                                        },
+                                        {
+                                            "title": "Saturday",
+                                            "subtitle": "11.00AM - 11.00PM",
+                                            "titleColor": "primary",
+                                            "subtitleColor": "primary"
+                                        },
+                                        {
+                                            "title": "Sunday",
+                                            "subtitle": "11.00AM - 11.00PM",
+                                            "titleColor": "text_high_emphasis",
+                                            "subtitleColor": "text_high_emphasis"
+                                        }
+                                    ],
+                                    "title": "Outlet timings"
+                                },
+                                "styleInfo": {
+                                    "titleColor": "negative",
+                                    "subtitleColor": "text_color_low_emphasis"
+                                }
+                            },
+                            "phone": "9109124323",
+                            "postalCode": "560001",
+                            "state": "Karnataka"
+                        },
+                        "analytics": {}
+                    },
+                    "relevance": {
+                        "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_AND_SHOW_MENU_OFFER_NUDGE",
+                        "sectionId": "MENU_ITEM_CART_UPDATE_POP_CROUTON"
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+                        "layout": {
+                            "rows": 1,
+                            "columns": 5,
+                            "horizontalScrollEnabled": true,
+                            "itemSpacing": 12,
+                            "lineSpacing": 10,
+                            "widgetPadding": {},
+                            "containerStyle": {
+                                "containerPadding": {
+                                    "left": 10,
+                                    "right": 10,
+                                    "bottom": 16
+                                }
+                            }
+                        },
+                        "id": "offerCollectionWidget_UX4",
+                        "gridElements": {
+                            "infoWithStyle": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                                "offers": [
+                                    {
+                                        "info": {
+                                            "header": "50% OFF UPTO ₹130",
+                                            "offerTag": "DEFAULT",
+                                            "offerTagColor": "#E46D47",
+                                            "offerIds": [
+                                                "643832-offer-0"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE WELCOME",
+                                            "description": "ABOVE ₹179",
+                                            "offerType": "offers",
+                                            "restId": "643832",
+                                            "offerLogo": "offers/generic",
+                                            "descriptionTextColor": "#7302060C",
+                                            "primaryDescription": "USE WELCOME"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "ITEMS AT ₹149",
+                                            "offerTag": "FLAT DEAL",
+                                            "offerTagColor": "#E46D47",
+                                            "offerIds": [
+                                                "643832-offer-1"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE DEALZONE",
+                                            "description": "ON SELECT ITEMS |",
+                                            "offerType": "offers",
+                                            "restId": "643832",
+                                            "offerLogo": "offers/deal-of-day",
+                                            "descriptionTextColor": "#7302060C",
+                                            "primaryDescription": "USE DEALZONE"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "FLAT ₹100 OFF",
+                                            "offerTag": "DEFAULT",
+                                            "offerTagColor": "#E46D47",
+                                            "offerIds": [
+                                                "643832-offer-2"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE FLAVORFUL",
+                                            "description": "ABOVE ₹249",
+                                            "offerType": "offers",
+                                            "restId": "643832",
+                                            "offerLogo": "offers/deal-of-day",
+                                            "descriptionTextColor": "#7302060C",
+                                            "primaryDescription": "USE FLAVORFUL"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "FREE DELIVERY",
+                                            "offerTag": "FLAT DEAL",
+                                            "offerTagColor": "#E46D47",
+                                            "offerIds": [
+                                                "643832-offer-3"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE PARTY",
+                                            "description": "NO MINIMUM ORDER",
+                                            "offerType": "offers",
+                                            "restId": "643832",
+                                            "offerLogo": "offers/generic",
+                                            "descriptionTextColor": "#7302060C",
+                                            "primaryDescription": "USE PARTY"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "FLAT 15% OFF",
+                                            "offerTag": "DEFAULT",
+                                            "offerTagColor": "#E46D47",
+                                            "offerIds": [
+                                                "643832-offer-4"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE GRANDFEAST",
+                                            "description": "ABOVE ₹599",
+                                            "offerType": "offers",
+                                            "restId": "643832",
+                                            "offerLogo": "offers/deal-of-day",
+                                            "descriptionTextColor": "#7302060C",
+                                            "primaryDescription": "USE GRANDFEAST"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    }
+                                ],
+                                "habitMilestoneInfo": {
+                                    "callout": {}
+                                },
+                                "loyaltyDiscoverPresentationInfo": {
+                                    "logoCtx": {}
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "groupedCard": {
+                    "cardGroupMap": {
+                        "REGULAR": {
+                            "cards": [
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                                            "badges": {},
+                                            "vegOnlyDetails": {
+                                                "imageId": "AutoVegOnly_qkjowj",
+                                                "title": "Showing only vegetarian options.",
+                                                "description": "Tap on the VEG ONLY button to turn off the setting"
+                                            },
+                                            "topRatedFilter": {
+                                                "attributes": {
+                                                    "displayText": "Ratings 4.0+"
+                                                }
+                                            },
+                                            "kidsCategoryFilter": {
+                                                "attributes": {
+                                                    "displayText": "Kids Favourites",
+                                                    "tooltip": {
+                                                        "enabled": true,
+                                                        "displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+                                                    }
+                                                }
+                                            },
+                                            "vegFilter": {
+                                                "attributes": {
+                                                    "displayText": "VEG"
+                                                }
+                                            },
+                                            "nonvegFilter": {
+                                                "attributes": {
+                                                    "displayText": "NONVEG"
+                                                }
+                                            }
+                                        },
+                                        "relevance": {
+                                            "type": "RELEVANCE_TYPE_ON_MENU_FILTER_TOGGLED",
+                                            "sectionId": "MENU_FILTER_TOGGLE"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Protein Bowls",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000194",
+                                                            "name": "Grilled Chicken Protein Bowl",
+                                                            "category": "Protein Bowls",
+                                                            "description": "Grilled chicken with quinoa, greens and veggies.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/19/308df647-a34b-4eb1-a086-543bc2aeab84_cb21dc11-d16e-440d-b4bf-3edf64a8f596.JPG",
+                                                            "inStock": 1,
+                                                            "price": 29900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#E46D47",
+                                                                "topBackgroundColor": "#FCE9E1",
+                                                                "bottomBackgroundColor": "#FFD4C7"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.4",
+                                                                    "ratingCount": "900+",
+                                                                    "ratingValue": "4.4"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300194",
+                                                            "menuFilterIds": [
+                                                                "NONVEG",
+                                                                "bestseller",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "29900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000195",
+                                                            "name": "Paneer Power Bowl",
+                                                            "category": "Protein Bowls",
+                                                            "description": "Paneer with brown rice, sprouts and salad.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/27/81caba99-f178-41e1-bc66-6532155fabd8_7fe9d68b-4733-453c-82e5-dfa41a3b6e27.JPG",
+                                                            "inStock": 1,
+                                                            "price": 26900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "700+",
+                                                                    "ratingValue": "4.3"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300195",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "26900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000196",
+                                                            "name": "Egg White Bowl",
+                                                            "category": "Protein Bowls",
+                                                            "description": "Egg whites with vegetables and quinoa.",
+                                                            "imageId": "uld1cbbr0onwym3wtyda",
+                                                            "inStock": 1,
+                                                            "price": 24900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.2",
+                                                                    "ratingCount": "500+",
+                                                                    "ratingValue": "4.2"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300196",
+                                                            "menuFilterIds": [
+                                                                "NONVEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "24900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000197",
+                                                            "name": "Tofu Teriyaki Bowl",
+                                                            "category": "Protein Bowls",
+                                                            "description": "Tofu tossed in teriyaki with rice and greens.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/7/e3a703c2-2f44-4b97-8d9f-e3c557ad6266_36403ce1-8e8b-4e31-a086-1ff78b1bf6cb.JPG",
+                                                            "inStock": 1,
+                                                            "price": 27900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.1",
+                                                                    "ratingCount": "400+",
+                                                                    "ratingValue": "4.1"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300197",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "27900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Salads",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000198",
+                                                            "name": "Classic Caesar Salad",
+                                                            "category": "Salads",
+                                                            "description": "Romaine lettuce, grilled chicken, croutons and caesar dressing.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/28/4d4671ba-3f1a-4ae6-9632-c227af09a508_d0bc8534-2644-41ab-a791-21e14f12e3ab.JPG",
+                                                            "inStock": 1,
+                                                            "price": 22900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#E46D47",
+                                                                "topBackgroundColor": "#FCE9E1",
+                                                                "bottomBackgroundColor": "#FFD4C7"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "800+",
+                                                                    "ratingValue": "4.3"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300198",
+                                                            "menuFilterIds": [
+                                                                "NONVEG",
+                                                                "bestseller",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "22900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000199",
+                                                            "name": "Greek Salad",
+                                                            "category": "Salads",
+                                                            "description": "Cucumber, tomato, olives and feta cheese.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/17/30395422-975d-4a0e-b3b2-3a98196bf57e_d3d79c3a-1f9b-4775-9e7b-f2e95a0da25b.JPG",
+                                                            "inStock": 1,
+                                                            "price": 21900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.2",
+                                                                    "ratingCount": "600+",
+                                                                    "ratingValue": "4.2"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300199",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "21900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000200",
+                                                            "name": "Quinoa Veggie Salad",
+                                                            "category": "Salads",
+                                                            "description": "Quinoa with roasted veggies and lemon dressing.",
+                                                            "imageId": "zdhvp16taomwukt5tj8r",
+                                                            "inStock": 1,
+                                                            "price": 23900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.1",
+                                                                    "ratingCount": "500+",
+                                                                    "ratingValue": "4.1"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300200",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "23900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000201",
+                                                            "name": "Chicken Avocado Salad",
+                                                            "category": "Salads",
+                                                            "description": "Grilled chicken, avocado and mixed greens.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/23/1e386955-1f7f-40f5-bd18-9fb1d3ff22d1_8236c93d-d216-47cc-9288-d0017f93bec5.JPG",
+                                                            "inStock": 1,
+                                                            "price": 26900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.4",
+                                                                    "ratingCount": "650+",
+                                                                    "ratingValue": "4.4"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300201",
+                                                            "menuFilterIds": [
+                                                                "NONVEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "26900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Sandwiches & Wraps",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000202",
+                                                            "name": "Grilled Veg Sandwich",
+                                                            "category": "Sandwiches & Wraps",
+                                                            "description": "Whole grain bread with grilled veggies and hummus.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/11/15/d9a1b266-83aa-4f41-95a0-cfe5d2828194_f6859877-5cb6-459d-ac12-8b0737bef414.png_compressed",
+                                                            "inStock": 1,
+                                                            "price": 17900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.2",
+                                                                    "ratingCount": "700+",
+                                                                    "ratingValue": "4.2"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300202",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "17900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000203",
+                                                            "name": "Chicken Wrap",
+                                                            "category": "Sandwiches & Wraps",
+                                                            "description": "Grilled chicken wrapped with veggies in a multigrain wrap.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/22/5f687883-3cfb-47a8-bd30-5c7dea928928_3f63ccd2-bf2d-4222-b447-67648d69cd7e.JPG",
+                                                            "inStock": 1,
+                                                            "price": 20900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.1",
+                                                                    "ratingCount": "600+",
+                                                                    "ratingValue": "4.1"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300203",
+                                                            "menuFilterIds": [
+                                                                "NONVEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "20900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000204",
+                                                            "name": "Paneer Tikka Wrap",
+                                                            "category": "Sandwiches & Wraps",
+                                                            "description": "Tandoori paneer with salad in a wrap.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/30/c2b0d494-dde9-42af-98f5-bff77ac07f41_9555a968-4619-4061-8774-35c031941e0e.JPG",
+                                                            "inStock": 1,
+                                                            "price": 19900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4",
+                                                                    "ratingCount": "450+",
+                                                                    "ratingValue": "4"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300204",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "19900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000205",
+                                                            "name": "Club Sandwich",
+                                                            "category": "Sandwiches & Wraps",
+                                                            "description": "Triple-decker sandwich with egg, veggies and cheese.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/8/36e98aa6-f3e7-4558-be35-cac05fd8b30d_593a234a-0033-44ae-8d59-294b82b4b069.JPG",
+                                                            "inStock": 1,
+                                                            "price": 18900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.1",
+                                                                    "ratingCount": "500+",
+                                                                    "ratingValue": "4.1"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300205",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "18900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Healthy Drinks",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000206",
+                                                            "name": "Green Detox Juice",
+                                                            "category": "Healthy Drinks",
+                                                            "description": "Spinach, celery, apple and ginger.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/23/1e386955-1f7f-40f5-bd18-9fb1d3ff22d1_8236c93d-d216-47cc-9288-d0017f93bec5.JPG",
+                                                            "inStock": 1,
+                                                            "price": 13900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.2",
+                                                                    "ratingCount": "400+",
+                                                                    "ratingValue": "4.2"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300206",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "13900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000207",
+                                                            "name": "Protein Shake",
+                                                            "category": "Healthy Drinks",
+                                                            "description": "Whey protein shake with banana and peanut butter.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/26/643688ab-c80e-441d-b90f-0a5ee83b7922_e6d800b2-a964-4584-9268-fc5788122c89.JPG",
+                                                            "inStock": 1,
+                                                            "price": 18900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "500+",
+                                                                    "ratingValue": "4.3"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300207",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "18900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000208",
+                                                            "name": "Coconut Water",
+                                                            "category": "Healthy Drinks",
+                                                            "description": "Natural tender coconut water.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/29/5fd69995-3e08-471e-aae9-87fc77d4d332_fb450ee0-75b1-4ca7-a915-0ac51b36b3ba.JPG",
+                                                            "inStock": 1,
+                                                            "price": 9900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.1",
+                                                                    "ratingCount": "300+",
+                                                                    "ratingValue": "4.1"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300208",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "9900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.FAQSection",
+                                            "title": "FAQs about WeFit - Protein Bowls, Salads & Sandwiches",
+                                            "qnas": [
+                                                {
+                                                    "question": "Does WeFit - Protein Bowls, Salads & Sandwiches deliver food in Central Bangalore on Swiggy?",
+                                                    "answer": "Yes, WeFit - Protein Bowls, Salads & Sandwiches delivers food in Central Bangalore through Swiggy. Customers can order their favorite dishes online and enjoy doorstep delivery."
+                                                },
+                                                {
+                                                    "question": "What is WeFit - Protein Bowls, Salads & Sandwiches known for?",
+                                                    "answer": "WeFit - Protein Bowls, Salads & Sandwiches is known for its popular dishes and authentic flavours."
+                                                },
+                                                {
+                                                    "question": "Does WeFit - Protein Bowls, Salads & Sandwiches offer vegetarian options?",
+                                                    "answer": "Yes, the restaurant offers both options, including a wide range of vegetarian items."
+                                                },
+                                                {
+                                                    "question": "How can I order from WeFit - Protein Bowls, Salads & Sandwiches online?",
+                                                    "answer": "Customers can open the Swiggy app or website, search for WeFit - Protein Bowls, Salads & Sandwiches in Central Bangalore, browse the menu, add dishes to the cart, and place the order online."
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                                            "type": "FSSAI",
+                                            "imageId": "fssai_final_edss9i",
+                                            "text": [
+                                                "License No. 22122020001237"
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                                            "name": "WeFit - Protein Bowls, Salads & Sandwiches",
+                                            "area": "Central Bangalore",
+                                            "completeAddress": "Main Road, Central Bangalore, Bangalore, Karnataka - 560001"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.PopularSearches",
+                                            "title": "Popular Searches",
+                                            "interlinkingSeoInfo": [
+                                                {
+                                                    "title": "Popular Restaurant In Central Bangalore",
+                                                    "links": [
+                                                        {
+                                                            "label": "Healthy Food",
+                                                            "url": "https://www.swiggy.com/city/bangalore/healthy-food-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Salads",
+                                                            "url": "https://www.swiggy.com/city/bangalore/salads-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Keto",
+                                                            "url": "https://www.swiggy.com/city/bangalore/keto-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Snacks",
+                                                            "url": "https://www.swiggy.com/city/bangalore/snacks-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Pizza",
+                                                            "url": "https://www.swiggy.com/city/bangalore/pizza-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Biryani",
+                                                            "url": "https://www.swiggy.com/city/bangalore/biryani-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Burger",
+                                                            "url": "https://www.swiggy.com/city/bangalore/burger-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Dosa",
+                                                            "url": "https://www.swiggy.com/city/bangalore/dosa-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Noodles",
+                                                            "url": "https://www.swiggy.com/city/bangalore/noodles-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Cake",
+                                                            "url": "https://www.swiggy.com/city/bangalore/cake-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Coffee",
+                                                            "url": "https://www.swiggy.com/city/bangalore/coffee-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Sandwich",
+                                                            "url": "https://www.swiggy.com/city/bangalore/sandwich-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Pasta",
+                                                            "url": "https://www.swiggy.com/city/bangalore/pasta-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Shake",
+                                                            "url": "https://www.swiggy.com/city/bangalore/shake-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Ice Cream",
+                                                            "url": "https://www.swiggy.com/city/bangalore/ice-cream-dish-restaurants"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.SeoFooter",
+                                            "socialLinks": [
+                                                {
+                                                    "label": "Linkedin",
+                                                    "url": "https://www.linkedin.com/company/swiggy-in/"
+                                                },
+                                                {
+                                                    "label": "Instagram",
+                                                    "url": "https://www.instagram.com/swiggyindia/?hl=en"
+                                                },
+                                                {
+                                                    "label": "Facebook",
+                                                    "url": "https://www.facebook.com/swiggy.in/"
+                                                },
+                                                {
+                                                    "label": "Pinterest",
+                                                    "url": "https://in.pinterest.com/swiggyindia/"
+                                                },
+                                                {
+                                                    "label": "Twitter",
+                                                    "url": "https://twitter.com/Swiggy?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.AppInstallLinks",
+                                            "title": "For better experience,download the Swiggy app now",
+                                            "androidAppImage": "portal/m/play_store.png",
+                                            "androidAppLink": "https://play.google.com/store/apps/details?id=in.swiggy.android&referrer=utm_source%3Dswiggy%26utm_medium%3Dheader",
+                                            "iosAppImage": "portal/m/app_store.png",
+                                            "iosAppLink": "https://itunes.apple.com/in/app/id989540920?referrer=utm_source%3Dswiggy%26utm_medium%3Dhomepage"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.PageMetaInfo",
+                                            "title": "Order from WeFit - Protein Bowls, Salads & Sandwiches online in Central Bangalore | Swiggy",
+                                            "description": "Order Online from WeFit - Protein Bowls, Salads & Sandwiches in Central Bangalore, Bangalore for delicious healthy food salads keto snacks food. Enjoy fast delivery with Swiggy.",
+                                            "keywords": "WeFit - Protein Bowls, Salads & Sandwiches, Central Bangalore, Bangalore, Healthy Food, Salads, Keto, Snacks, food delivery, order food online"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ],
+        "firstOffsetRequest": true,
+        "isQCLink": false
+    }
+}

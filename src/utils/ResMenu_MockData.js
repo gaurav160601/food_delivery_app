@@ -1,0 +1,8147 @@
+const resMenu={
+    "statusCode": 0,
+    "data": {
+        "statusMessage": "done successfully",
+        "cards": [
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+                        "text": "New Spicy Hut Restaurant",
+                        "headerStyling": {
+                            "textColor": "text_Highest_Emphasis",
+                            "textVariant": "header_H3_Black"
+                        }
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+                        "tabs": [
+                            {
+                                "id": "Order Online",
+                                "title": "Order Online"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                        "info": {
+                            "id": "672075",
+                            "name": "New Spicy Hut Restaurant",
+                            "city": "Jalandhar",
+                            "slugs": {
+                                "restaurant": "new-spicy-hut-restaurant-south_jalandhar-south_jalandhar",
+                                "city": "jalandhar"
+                            },
+                            "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+                            "cloudinaryImageId": "f34657e4f398eec0e714971b58f8be69",
+                            "locality": "Adjoining Big Bazar",
+                            "areaName": "South_Jalandhar",
+                            "costForTwo": "30000",
+                            "costForTwoMessage": "₹300 for two",
+                            "cuisines": [
+                                "Chinese",
+                                "Italian-American"
+                            ],
+                            "feeDetails": {
+                                "restaurantId": "672075",
+                                "fees": [
+                                    {}
+                                ]
+                            },
+                            "parentId": "402566",
+                            "avgRatingString": "--",
+                            "totalRatingsString": "Too Few Ratings",
+                            "sla": {
+                                "restaurantId": "672075",
+                                "lastMileTravel": 4100.8,
+                                "serviceability": "NON_SERVICEABLE",
+                                "rainMode": "RAIN_MODE_NONE",
+                                "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                                "lastMileTravelString": "4100.8 km",
+                                "iconType": "ICON_TYPE_EMPTY"
+                            },
+                            "availability": {
+                                "nextOpenTimeMessage": "Opens next at 10 am, today",
+                                "nextOpenTime": "2026-07-14 10:00:00",
+                                "visibility": true,
+                                "restaurantClosedMeta": {}
+                            },
+                            "aggregatedDiscountInfo": {
+                                "shortDescriptionList": [
+                                    {
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "10% off upto ₹75|Use VISAPLATINUMCC Above ₹600",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "10% off upto ₹75|Use VISAPLATINUMDC Above ₹300",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "visible": true
+                            },
+                            "badges": {},
+                            "slugString": "new-spicy-hut-restaurant-south_jalandhar-south_jalandhar",
+                            "labels": [
+                                {
+                                    "title": "Timings",
+                                    "message": "null"
+                                },
+                                {
+                                    "title": "Address",
+                                    "message": "VASAL MALL, POLICE LINE ROAD, ADJOINING BIG BAZAR, OPP. HOTEL PRESIDENT, Police Station 6, Jalandhar-1 (P/S 1,2,3,4,5, Sub Division Jalandhar-1), Jalandhar, Punjab - 144001"
+                                },
+                                {
+                                    "title": "Cuisines",
+                                    "message": "Chinese,Italian-American"
+                                }
+                            ],
+                            "aggregatedDiscountInfoV2": {
+                                "shortDescriptionList": [
+                                    {
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "10% off upto ₹75|Use VISAPLATINUMCC Above ₹600",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "10% off upto ₹75|Use VISAPLATINUMDC Above ₹300",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "couponDetailsCta": "View coupon details"
+                            },
+                            "type": "F",
+                            "similarRestaurantAvailable": "false",
+                            "headerBanner": {
+                                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/672075"
+                            },
+                            "tradeCampaignHeadersV2": [
+                                {
+                                    "discountType": "Percentage"
+                                },
+                                {
+                                    "discountType": "Percentage"
+                                },
+                                {
+                                    "discountType": "Flat"
+                                },
+                                {
+                                    "discountType": "Percentage"
+                                },
+                                {
+                                    "discountType": "Percentage"
+                                }
+                            ],
+                            "availabilityServiceabilityMessage": "Does not deliver to your location",
+                            "orderabilityCommunication": {
+                                "title": {
+                                    "text": "Wish you were"
+                                },
+                                "subTitle": {
+                                    "text": "CLOSER!"
+                                },
+                                "message": {
+                                    "text": "This location is outside the outlet's delivery area",
+                                    "textColour": "negative"
+                                },
+                                "customIcon": {
+                                    "bgGradientColorStart": "#F64C41",
+                                    "bgGradientColorEnd": "#E53554"
+                                },
+                                "commsStyling": {}
+                            },
+                            "cartOrderabilityNudgeBanner": {
+                                "parameters": {},
+                                "presentation": {}
+                            },
+                            "latLong": "31.3167251,75.591609499999",
+                            "externalRatings": {
+                                "aggregatedRating": {
+                                    "rating": "3.9",
+                                    "ratingCount": "48 ratings"
+                                },
+                                "source": "GOOGLE",
+                                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                            },
+                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_EXTERNAL",
+                            "backgroundImageOverlayInfo": {},
+                            "featuredSectionInfo": {},
+                            "timingsInfo": {
+                                "status": "Closed",
+                                "message": "Opens 10:00 am",
+                                "outletTiming": {
+                                    "infoList": [
+                                        {
+                                            "title": "Monday",
+                                            "subtitle": "10.00AM - 10.00PM",
+                                            "titleColor": "text_high_emphasis",
+                                            "subtitleColor": "text_high_emphasis"
+                                        },
+                                        {
+                                            "title": "Tuesday",
+                                            "subtitle": "10.00AM - 10.00PM",
+                                            "titleColor": "primary",
+                                            "subtitleColor": "primary"
+                                        },
+                                        {
+                                            "title": "Wednesday",
+                                            "subtitle": "10.00AM - 10.00PM",
+                                            "titleColor": "text_high_emphasis",
+                                            "subtitleColor": "text_high_emphasis"
+                                        },
+                                        {
+                                            "title": "Thursday",
+                                            "subtitle": "10.00AM - 10.00PM",
+                                            "titleColor": "text_high_emphasis",
+                                            "subtitleColor": "text_high_emphasis"
+                                        },
+                                        {
+                                            "title": "Friday",
+                                            "subtitle": "10.00AM - 10.00PM",
+                                            "titleColor": "text_high_emphasis",
+                                            "subtitleColor": "text_high_emphasis"
+                                        },
+                                        {
+                                            "title": "Saturday",
+                                            "subtitle": "10.00AM - 10.00PM",
+                                            "titleColor": "text_high_emphasis",
+                                            "subtitleColor": "text_high_emphasis"
+                                        },
+                                        {
+                                            "title": "Sunday",
+                                            "subtitle": "10.00AM - 10.00PM",
+                                            "titleColor": "text_high_emphasis",
+                                            "subtitleColor": "text_high_emphasis"
+                                        }
+                                    ],
+                                    "title": "Outlet timings"
+                                },
+                                "styleInfo": {
+                                    "titleColor": "negative",
+                                    "subtitleColor": "text_color_low_emphasis"
+                                }
+                            },
+                            "phone": "7009363442",
+                            "postalCode": "144001"
+                        },
+                        "analytics": {}
+                    },
+                    "relevance": {
+                        "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_AND_SHOW_MENU_OFFER_NUDGE",
+                        "sectionId": "MENU_ITEM_CART_UPDATE_POP_CROUTON"
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+                        "layout": {
+                            "rows": 1,
+                            "columns": 5,
+                            "horizontalScrollEnabled": true,
+                            "itemSpacing": 12,
+                            "lineSpacing": 10,
+                            "widgetPadding": {},
+                            "containerStyle": {
+                                "containerPadding": {
+                                    "left": 10,
+                                    "right": 10,
+                                    "bottom": 16
+                                }
+                            }
+                        },
+                        "id": "offerCollectionWidget_UX4",
+                        "gridElements": {
+                            "infoWithStyle": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                                "offers": [
+                                    {
+                                        "info": {
+                                            "header": "10% OFF UPTO ₹75",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2026/7/1/7841ada3-e1b0-45dc-93ef-287956cbcebb_Visa.png",
+                                            "offerIds": [
+                                                "2b8ea76f-48ac-4f20-b28f-abb1c63cc5a2"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE VISAPLATINUMCC",
+                                            "description": "ABOVE ₹600",
+                                            "offerType": "offers",
+                                            "restId": "672075",
+                                            "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2026/7/1/7841ada3-e1b0-45dc-93ef-287956cbcebb_Visa.png",
+                                            "descriptionTextColor": "#7302060C",
+                                            "primaryDescription": "USE VISAPLATINUMCC"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "10% OFF UPTO ₹75",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2026/7/1/f0d43a50-1d76-41fc-ae41-264186c9df55_Visa.png",
+                                            "offerIds": [
+                                                "a8edff34-259b-4037-92e1-a21bcf88850a"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE VISAPLATINUMDC",
+                                            "description": "ABOVE ₹300",
+                                            "offerType": "offers",
+                                            "restId": "672075",
+                                            "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2026/7/1/f0d43a50-1d76-41fc-ae41-264186c9df55_Visa.png",
+                                            "descriptionTextColor": "#7302060C",
+                                            "primaryDescription": "USE VISAPLATINUMDC"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "FLAT ₹150 OFF",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2026/6/30/320845c3-1844-40e9-8432-a4bd4325ae7b_Axis.png",
+                                            "offerIds": [
+                                                "25de549d-930b-4b55-a84d-25701564aaeb"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE AXISREWARDS",
+                                            "description": "ABOVE ₹500",
+                                            "offerType": "offers",
+                                            "restId": "672075",
+                                            "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2026/6/30/320845c3-1844-40e9-8432-a4bd4325ae7b_Axis.png",
+                                            "descriptionTextColor": "#7302060C",
+                                            "primaryDescription": "USE AXISREWARDS"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "10% OFF UPTO ₹50",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2026/7/1/ce6958d6-d674-4a28-92b0-a8411dfd5c68_Visa.png",
+                                            "offerIds": [
+                                                "45cac2a7-6bdb-4776-99af-56b3b2654d10"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE VISACLASSICDC",
+                                            "description": "ABOVE ₹300",
+                                            "offerType": "offers",
+                                            "restId": "672075",
+                                            "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2026/7/1/ce6958d6-d674-4a28-92b0-a8411dfd5c68_Visa.png",
+                                            "descriptionTextColor": "#7302060C",
+                                            "primaryDescription": "USE VISACLASSICDC"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "FLAT 5% OFF",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2026/7/13/b85afaee-4fde-45a6-b234-fccbdd8108a5_ICICIMenuLogo.png",
+                                            "offerIds": [
+                                                "e385575c-32f1-4534-842d-1b2627267a80"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE ICICIAPAY",
+                                            "description": "ABOVE ₹299",
+                                            "offerType": "offers",
+                                            "restId": "672075",
+                                            "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2026/7/13/b85afaee-4fde-45a6-b234-fccbdd8108a5_ICICIMenuLogo.png",
+                                            "descriptionTextColor": "#7302060C",
+                                            "primaryDescription": "USE ICICIAPAY"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    }
+                                ],
+                                "habitMilestoneInfo": {
+                                    "callout": {}
+                                },
+                                "loyaltyDiscoverPresentationInfo": {
+                                    "logoCtx": {}
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "groupedCard": {
+                    "cardGroupMap": {
+                        "REGULAR": {
+                            "cards": [
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                                            "badges": {},
+                                            "vegOnlyDetails": {
+                                                "imageId": "AutoVegOnly_qkjowj",
+                                                "title": "Showing only vegetarian options.",
+                                                "description": "Tap on the VEG ONLY button to turn off the setting"
+                                            },
+                                            "topRatedFilter": {
+                                                "attributes": {
+                                                    "displayText": "Ratings 4.0+"
+                                                }
+                                            },
+                                            "kidsCategoryFilter": {
+                                                "attributes": {
+                                                    "displayText": "Kids Favourites",
+                                                    "tooltip": {
+                                                        "enabled": true,
+                                                        "displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+                                                    }
+                                                }
+                                            },
+                                            "vegFilter": {
+                                                "attributes": {
+                                                    "displayText": "VEG"
+                                                }
+                                            },
+                                            "nonvegFilter": {
+                                                "attributes": {
+                                                    "displayText": "NONVEG"
+                                                }
+                                            }
+                                        },
+                                        "relevance": {
+                                            "type": "RELEVANCE_TYPE_ON_MENU_FILTER_TOGGLED",
+                                            "sectionId": "MENU_FILTER_TOGGLE"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Main Courses",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540954",
+                                                            "name": "Aloo pranthan with butter and curd",
+                                                            "category": "Main Courses",
+                                                            "isVeg": 1,
+                                                            "price": 11200,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930752",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "11200",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541072",
+                                                            "name": "Paneer tikka butter masala",
+                                                            "category": "Main Courses",
+                                                            "description": "Soft paneer cooked in a buttery, rich gravy with flavorful masalas, perfect with rotis or rice.",
+                                                            "isVeg": 1,
+                                                            "price": 21000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930852",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "21000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540955",
+                                                            "name": "Gobi onion pranthan with butter and curd",
+                                                            "category": "Main Courses",
+                                                            "isVeg": 1,
+                                                            "price": 14000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930819",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "14000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540956",
+                                                            "name": "Paneer pranthan with butter and curd",
+                                                            "category": "Main Courses",
+                                                            "isVeg": 1,
+                                                            "price": 17000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930851",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "17000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540957",
+                                                            "name": "Puri chhna",
+                                                            "category": "Main Courses",
+                                                            "isVeg": 1,
+                                                            "price": 14000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930859",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "14000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540958",
+                                                            "name": "Chnna bhuter",
+                                                            "category": "Main Courses",
+                                                            "isVeg": 1,
+                                                            "price": 14000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930798",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "14000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540959",
+                                                            "name": "Amritsar naan",
+                                                            "category": "Main Courses",
+                                                            "isVeg": 1,
+                                                            "price": 14000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930754",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "14000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540960",
+                                                            "name": "Chana rice",
+                                                            "category": "Main Courses",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/27/cff2d743-9983-45d2-a7ea-f90dfed15448_e1f7eab0-9a2e-4942-a123-fb434439e528.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 14000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930764",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_final_price": "0",
+                                                                "swiggy_listing_price": "14000"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540961",
+                                                            "name": "Chnna bhuter + lassi",
+                                                            "category": "Main Courses",
+                                                            "isVeg": 1,
+                                                            "price": 21000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930799",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_final_price": "0",
+                                                                "swiggy_listing_price": "21000"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541068",
+                                                            "name": "Dal mankni",
+                                                            "category": "Main Courses",
+                                                            "isVeg": 1,
+                                                            "price": 16800,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930811",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "16800",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541069",
+                                                            "name": "Yellow dal tadka",
+                                                            "category": "Main Courses",
+                                                            "isVeg": 1,
+                                                            "price": 12600,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930886",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "12600",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541070",
+                                                            "name": "Mix veg",
+                                                            "category": "Main Courses",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/23/1e386955-1f7f-40f5-bd18-9fb1d3ff22d1_8236c93d-d216-47cc-9288-d0017f93bec5.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 16800,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930841",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "16800",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541071",
+                                                            "name": "Paaner mankni",
+                                                            "category": "Main Courses",
+                                                            "isVeg": 1,
+                                                            "price": 21000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930849",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "21000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541073",
+                                                            "name": "Kadhi paaner",
+                                                            "category": "Main Courses",
+                                                            "isVeg": 1,
+                                                            "price": 19600,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930828",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "19600",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541074",
+                                                            "name": "Matar paneer",
+                                                            "category": "Main Courses",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/19/88dc6678-8fc6-4ac7-ae37-1900343cb5d7_d22f21c6-ff5f-437b-877e-70d1f34b3bbb.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 15400,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930840",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "15400",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541075",
+                                                            "name": "Paaner do pyzza",
+                                                            "category": "Main Courses",
+                                                            "isVeg": 1,
+                                                            "price": 16800,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930848",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "16800",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541076",
+                                                            "name": "Paaner bhurji",
+                                                            "category": "Main Courses",
+                                                            "isVeg": 1,
+                                                            "price": 25200,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930847",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_final_price": "0",
+                                                                "swiggy_listing_price": "25200"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541077",
+                                                            "name": "Cheese tomato",
+                                                            "category": "Main Courses",
+                                                            "isVeg": 1,
+                                                            "price": 21000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930768",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "21000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541078",
+                                                            "name": "Matar mushroom",
+                                                            "category": "Main Courses",
+                                                            "isVeg": 1,
+                                                            "price": 15400,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930839",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "15400",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541079",
+                                                            "name": "Mushroom masala",
+                                                            "category": "Main Courses",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/17/30395422-975d-4a0e-b3b2-3a98196bf57e_d3d79c3a-1f9b-4775-9e7b-f2e95a0da25b.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 21000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930843",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "21000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541080",
+                                                            "name": "Chnna masala",
+                                                            "category": "Main Courses",
+                                                            "isVeg": 1,
+                                                            "price": 15400,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930800",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "15400",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541081",
+                                                            "name": "Mali kofta",
+                                                            "category": "Main Courses",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/22/c3569a8a-f2b8-42c5-a276-f1ca8f8d7bd3_fc877800-16ee-40bf-ab44-72740386e67c.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 21000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930833",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "21000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541082",
+                                                            "name": "Jeera aloo",
+                                                            "category": "Main Courses",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/18/a6707782-db0a-4604-98f4-29def0c2e82a_bbe2eb1c-e734-48ea-bf4a-aa37723a1f3b.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 11200,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930825",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "11200",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541083",
+                                                            "name": "Paneer tikka lahiri",
+                                                            "category": "Main Courses",
+                                                            "isVeg": 1,
+                                                            "price": 39200,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930853",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "39200",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541084",
+                                                            "name": "Veg tandoori platter",
+                                                            "category": "Main Courses",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/18/36913ff8-26bc-40c5-8497-fe1933f5a221_5a3c8a8a-a127-4a21-a45d-5bce5439be69.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 41800,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930883",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "41800",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541085",
+                                                            "name": "Toondri stuffed mushroom tikka",
+                                                            "category": "Main Courses",
+                                                            "isVeg": 1,
+                                                            "price": 28000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930873",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "28000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541086",
+                                                            "name": "Paneer mali tikka",
+                                                            "category": "Main Courses",
+                                                            "isVeg": 1,
+                                                            "price": 35000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930850",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "35000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541087",
+                                                            "name": "Erney tikka",
+                                                            "category": "Main Courses",
+                                                            "isVeg": 1,
+                                                            "price": 35000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930815",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "35000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541088",
+                                                            "name": "Toondri barkey",
+                                                            "category": "Main Courses",
+                                                            "isVeg": 1,
+                                                            "price": 28000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930872",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "28000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ],
+                                            "subtitleSuffix": {},
+                                            "image": "FOOD_CATALOG/IMAGES/CMS/2026/1/27/cff2d743-9983-45d2-a7ea-f90dfed15448_e1f7eab0-9a2e-4942-a123-fb434439e528.JPG",
+                                            "categoryId": "31238678"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Snacks",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541005",
+                                                            "name": "Cheese finger [8 pieces]",
+                                                            "category": "Snacks",
+                                                            "isVeg": 1,
+                                                            "price": 35000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930766",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "35000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541006",
+                                                            "name": "Mushroom cheese nuggets",
+                                                            "category": "Snacks",
+                                                            "isVeg": 1,
+                                                            "price": 28000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930842",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "28000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541007",
+                                                            "name": "French fries",
+                                                            "category": "Snacks",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/30/dc34e921-5fe7-47ae-bc83-c6452bc7030f_3b83ecf9-e5a1-4fd2-9f0b-50724a746e3f.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 18500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930816",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "18500",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541008",
+                                                            "name": "Cheese french fries",
+                                                            "category": "Snacks",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/13/d462bb4e-1746-4c2e-b9a5-82fb9f4d460a_0aef6567-d9df-4cdf-9ec9-86bb5cec345f.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 21000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930767",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "21000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541052",
+                                                            "name": "Chilli chicken",
+                                                            "category": "Snacks",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/26/643688ab-c80e-441d-b90f-0a5ee83b7922_e6d800b2-a964-4584-9268-fc5788122c89.JPG",
+                                                            "price": 40600,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "imageBadges": [
+                                                                {
+                                                                    "imageId": "Health%20Hub/Sub%20categories/Item%20badges/Low%20cal%201_1.png"
+                                                                }
+                                                            ],
+                                                            "parentId": "62930790",
+                                                            "menuFilterIds": [
+                                                                "EATRIGHT",
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "40600",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541053",
+                                                            "name": "Lemon chicken",
+                                                            "category": "Snacks",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/27/81caba99-f178-41e1-bc66-6532155fabd8_7fe9d68b-4733-453c-82e5-dfa41a3b6e27.JPG",
+                                                            "price": 42000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930831",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "42000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541054",
+                                                            "name": "Garlic chicken",
+                                                            "category": "Snacks",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/17/8b93d718-240e-4144-8ea7-f2c4a9ecbd8b_d94bdb22-9e91-4115-9a57-004d7c9a1bdc.JPG",
+                                                            "price": 49000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930818",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "49000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541055",
+                                                            "name": "Butter chicken",
+                                                            "category": "Snacks",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/18/a2866691-18d4-485c-ab3f-f34cf2ec64da_9bfa584c-0dd6-489f-bac0-8a66f2e7bc85.JPG",
+                                                            "price": 49000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930759",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_final_price": "0",
+                                                                "swiggy_listing_price": "49000"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541056",
+                                                            "name": "Kadhi chicken",
+                                                            "category": "Snacks",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/17/d36d7bd1-6f74-4d4f-b1ac-8fe932a15837_b76c7f72-6a3a-4148-aea8-c7cdad810166.JPG",
+                                                            "price": 42000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930827",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "42000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541057",
+                                                            "name": "Rra chicken",
+                                                            "category": "Snacks",
+                                                            "price": 42000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930861",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "42000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541058",
+                                                            "name": "Masala chicken",
+                                                            "category": "Snacks",
+                                                            "price": 40600,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930837",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "40600",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541059",
+                                                            "name": "Tawa chicken",
+                                                            "category": "Snacks",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/29/5fd69995-3e08-471e-aae9-87fc77d4d332_fb450ee0-75b1-4ca7-a915-0ac51b36b3ba.JPG",
+                                                            "price": 40600,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930869",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "40600",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541060",
+                                                            "name": "Kali mirch chicken",
+                                                            "category": "Snacks",
+                                                            "price": 42000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930829",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "42000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541061",
+                                                            "name": "Veg manchurian",
+                                                            "category": "Snacks",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/6/d3ec0df4-88c7-4776-b206-a42daede10ad_ae0d7b77-3ccf-4d51-a011-0ebdf10b549f.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 23800,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930881",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "23800",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541062",
+                                                            "name": "Honey chilli potato",
+                                                            "category": "Snacks",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/22/5f687883-3cfb-47a8-bd30-5c7dea928928_3f63ccd2-bf2d-4222-b447-67648d69cd7e.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 23800,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930822",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_final_price": "0",
+                                                                "swiggy_listing_price": "23800"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541063",
+                                                            "name": "Cheese chilli",
+                                                            "category": "Snacks",
+                                                            "isVeg": 1,
+                                                            "price": 30800,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930765",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "30800",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541064",
+                                                            "name": "Chilli mushroom",
+                                                            "category": "Snacks",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/14/e00bb19a-3e51-43bc-ab15-8695cc956fd9_6b6a3414-a271-49e0-95bd-203292e744c7.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 30800,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930794",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "30800",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541065",
+                                                            "name": "Spring roll",
+                                                            "category": "Snacks",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/30/c2b0d494-dde9-42af-98f5-bff77ac07f41_9555a968-4619-4061-8774-35c031941e0e.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 23800,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930866",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "23800",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541066",
+                                                            "name": "Crispy veg salt pepper",
+                                                            "category": "Snacks",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/6/58ce768a-d76c-4d5a-ad25-0283587f5575_42a3cf31-e07d-4d1f-ae80-e78a2d40b6e4.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 28000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930810",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "28000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541067",
+                                                            "name": "Chopsuey",
+                                                            "category": "Snacks",
+                                                            "isVeg": 1,
+                                                            "price": 28000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930803",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "28000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ],
+                                            "subtitleSuffix": {},
+                                            "image": "FOOD_CATALOG/IMAGES/CMS/2026/1/30/dc34e921-5fe7-47ae-bc83-c6452bc7030f_3b83ecf9-e5a1-4fd2-9f0b-50724a746e3f.JPG",
+                                            "categoryId": "31238689"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Rice",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541012",
+                                                            "name": "Veg fried rice",
+                                                            "category": "Rice",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/7/27660ac6-ee85-4b64-883f-9d35de3b3adf_0817da12-33a7-42bf-9459-7ab55ad3b28d.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 26500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "196589964",
+                                                                    "groupName": "Soft Drink",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481115",
+                                                                            "name": "Lassi",
+                                                                            "price": 8500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481113",
+                                                                            "name": "Cold drink",
+                                                                            "price": 4000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481114",
+                                                                            "name": "Lemon masla water",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                },
+                                                                {
+                                                                    "groupId": "196589968",
+                                                                    "groupName": "Icecream",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481119",
+                                                                            "name": "Strawberry ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481116",
+                                                                            "name": "Vanila ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481117",
+                                                                            "name": "Butterscotch ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481118",
+                                                                            "name": "Chocolate ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930878",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "26500",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541013",
+                                                            "name": "Chilli garlic fried rice",
+                                                            "category": "Rice",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/6/04a3d65b-da99-4c62-8021-5abac1d214bb_2d0f6c2a-138e-4aa4-988a-9024bfe829e5.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 28000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "196589902",
+                                                                    "groupName": "Icecream",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481119",
+                                                                            "name": "Strawberry ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481116",
+                                                                            "name": "Vanila ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481117",
+                                                                            "name": "Butterscotch ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481118",
+                                                                            "name": "Chocolate ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                },
+                                                                {
+                                                                    "groupId": "196589899",
+                                                                    "groupName": "Soft Drink",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481115",
+                                                                            "name": "Lassi",
+                                                                            "price": 8500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481113",
+                                                                            "name": "Cold drink",
+                                                                            "price": 4000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481114",
+                                                                            "name": "Lemon masla water",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930793",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "28000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541014",
+                                                            "name": "Hyderabadi veg biryani",
+                                                            "category": "Rice",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/27/0dd02f5f-7261-4a8d-99b9-4192026db376_0cfda9ab-cd79-431a-9251-07c8776c33e6.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 31000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930824",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "31000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541015",
+                                                            "name": "Veg pulo",
+                                                            "category": "Rice",
+                                                            "isVeg": 1,
+                                                            "price": 19500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930882",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "19500",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541016",
+                                                            "name": "Plan rice",
+                                                            "category": "Rice",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/6/90019851-82cf-4bc2-bc70-8f92da1d2175_4031dd0e-9269-46b5-b079-d8fc762f7f2d.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 17000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930858",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "17000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541017",
+                                                            "name": "Jeera rice",
+                                                            "category": "Rice",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/6/f784c804-caf2-47c5-8eb4-1a79f18427fa_fd4ad43e-ba46-4209-8d69-a8677ec4d05d.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 18200,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930826",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "18200",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541048",
+                                                            "name": "Chicken fried rice",
+                                                            "category": "Rice",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/27/64a2b749-1db3-4e15-b07e-28273cbf161d_34879d68-48f1-4f1b-a17c-47ed75dc49d3.JPG",
+                                                            "price": 40600,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "196594353",
+                                                                    "groupName": "Soft Drink",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481115",
+                                                                            "name": "Lassi",
+                                                                            "price": 8500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481113",
+                                                                            "name": "Cold drink",
+                                                                            "price": 4000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481114",
+                                                                            "name": "Lemon masla water",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                },
+                                                                {
+                                                                    "groupId": "196594359",
+                                                                    "groupName": "Icecream",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481119",
+                                                                            "name": "Strawberry ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481116",
+                                                                            "name": "Vanila ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481117",
+                                                                            "name": "Butterscotch ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481118",
+                                                                            "name": "Chocolate ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930772",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "40600",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541049",
+                                                            "name": "Egg fried rice",
+                                                            "category": "Rice",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/14/4281e9c1-3dcf-45f1-bb7b-730c9535251e_d7ec5e7b-0196-4708-bef7-f3888562662d.JPG",
+                                                            "price": 26600,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "196589982",
+                                                                    "groupName": "Icecream",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481119",
+                                                                            "name": "Strawberry ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481116",
+                                                                            "name": "Vanila ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481117",
+                                                                            "name": "Butterscotch ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481118",
+                                                                            "name": "Chocolate ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                },
+                                                                {
+                                                                    "groupId": "196589976",
+                                                                    "groupName": "Soft Drink",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481115",
+                                                                            "name": "Lassi",
+                                                                            "price": 8500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481113",
+                                                                            "name": "Cold drink",
+                                                                            "price": 4000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481114",
+                                                                            "name": "Lemon masla water",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930813",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "26600",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541050",
+                                                            "name": "Chicken garlic fried rice",
+                                                            "category": "Rice",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/13/d0743900-cebf-455a-9f29-7e018b188eba_d02ddd90-eb05-4520-a918-15b5b3c59d0d.JPG",
+                                                            "price": 42000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "196603272",
+                                                                    "groupName": "Soft Drink",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481115",
+                                                                            "name": "Lassi",
+                                                                            "price": 8500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481113",
+                                                                            "name": "Cold drink",
+                                                                            "price": 4000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481114",
+                                                                            "name": "Lemon masla water",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                },
+                                                                {
+                                                                    "groupId": "196603273",
+                                                                    "groupName": "Icecream",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481119",
+                                                                            "name": "Strawberry ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481116",
+                                                                            "name": "Vanila ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481117",
+                                                                            "name": "Butterscotch ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481118",
+                                                                            "name": "Chocolate ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930773",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "42000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541051",
+                                                            "name": "Egg garlic fried rice",
+                                                            "category": "Rice",
+                                                            "price": 28000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "196590023",
+                                                                    "groupName": "Soft Drink",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481115",
+                                                                            "name": "Lassi",
+                                                                            "price": 8500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481113",
+                                                                            "name": "Cold drink",
+                                                                            "price": 4000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481114",
+                                                                            "name": "Lemon masla water",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                },
+                                                                {
+                                                                    "groupId": "196590027",
+                                                                    "groupName": "Icecream",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481119",
+                                                                            "name": "Strawberry ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481116",
+                                                                            "name": "Vanila ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481117",
+                                                                            "name": "Butterscotch ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481118",
+                                                                            "name": "Chocolate ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930814",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "28000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ],
+                                            "subtitleSuffix": {},
+                                            "image": "FOOD_CATALOG/IMAGES/CMS/2026/2/7/27660ac6-ee85-4b64-883f-9d35de3b3adf_0817da12-33a7-42bf-9459-7ab55ad3b28d.JPG",
+                                            "categoryId": "31238691"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Sandwich",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540982",
+                                                            "name": "Marine sandwich",
+                                                            "category": "Sandwich",
+                                                            "isVeg": 1,
+                                                            "price": 10000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930836",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_final_price": "0",
+                                                                "swiggy_listing_price": "10000"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540983",
+                                                            "name": "Veg grilled sandwich 1 palte",
+                                                            "category": "Sandwich",
+                                                            "isVeg": 1,
+                                                            "price": 25500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930879",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "25500",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540984",
+                                                            "name": "Paneer tikka sandwich palte",
+                                                            "category": "Sandwich",
+                                                            "isVeg": 1,
+                                                            "price": 28000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930855",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "28000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540985",
+                                                            "name": "Cottage cheese masala sandwich",
+                                                            "category": "Sandwich",
+                                                            "isVeg": 1,
+                                                            "price": 28000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930807",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "28000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540986",
+                                                            "name": "Spicy mushroom with cermy veg",
+                                                            "category": "Sandwich",
+                                                            "isVeg": 1,
+                                                            "price": 28000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930864",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "28000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540987",
+                                                            "name": "Pasta sandwich",
+                                                            "category": "Sandwich",
+                                                            "isVeg": 1,
+                                                            "price": 28000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "196589911",
+                                                                    "groupName": "Icecream",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481119",
+                                                                            "name": "Strawberry ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481116",
+                                                                            "name": "Vanila ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481117",
+                                                                            "name": "Butterscotch ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481118",
+                                                                            "name": "Chocolate ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                },
+                                                                {
+                                                                    "groupId": "196589910",
+                                                                    "groupName": "Soft Drink",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481115",
+                                                                            "name": "Lassi",
+                                                                            "price": 8500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481113",
+                                                                            "name": "Cold drink",
+                                                                            "price": 4000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481114",
+                                                                            "name": "Lemon masla water",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930857",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_final_price": "0",
+                                                                "swiggy_listing_price": "28000"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540988",
+                                                            "name": "Veg club house house sandwich",
+                                                            "category": "Sandwich",
+                                                            "isVeg": 1,
+                                                            "price": 31000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930877",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "31000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541029",
+                                                            "name": "Chicken grilled sandwich",
+                                                            "category": "Sandwich",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/7/475ca886-9812-4a49-8ab1-02ef561850f7_a4087bac-13a8-42d6-909d-a120beaaa890.JPG",
+                                                            "price": 28000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930774",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "28000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541030",
+                                                            "name": "Chicken tikka sandwich",
+                                                            "category": "Sandwich",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/22/5c6a41ca-d192-4aff-94e7-27ea0148215b_16078265-5516-4072-a89e-3cca6a52825e.JPG",
+                                                            "price": 28000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930787",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "28000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541031",
+                                                            "name": "Chicken club house sandwich",
+                                                            "category": "Sandwich",
+                                                            "price": 32200,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930770",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "32200",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541032",
+                                                            "name": "Chicken pasta sandwich",
+                                                            "category": "Sandwich",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/21/d16c3595-f85c-4ae3-b8a2-1824a59f1038_41c5d242-7e1f-463f-b2e2-36ed917fd3fc.JPG",
+                                                            "price": 28000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "196589939",
+                                                                    "groupName": "Soft Drink",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481115",
+                                                                            "name": "Lassi",
+                                                                            "price": 8500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481113",
+                                                                            "name": "Cold drink",
+                                                                            "price": 4000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481114",
+                                                                            "name": "Lemon masla water",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                },
+                                                                {
+                                                                    "groupId": "196589942",
+                                                                    "groupName": "Icecream",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481119",
+                                                                            "name": "Strawberry ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481116",
+                                                                            "name": "Vanila ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481117",
+                                                                            "name": "Butterscotch ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481118",
+                                                                            "name": "Chocolate ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930781",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "28000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ],
+                                            "subtitleSuffix": {},
+                                            "image": "FOOD_CATALOG/IMAGES/CMS/2026/2/7/475ca886-9812-4a49-8ab1-02ef561850f7_a4087bac-13a8-42d6-909d-a120beaaa890.JPG",
+                                            "categoryId": "31238685"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Burger",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540998",
+                                                            "name": "Aloo tikki burger",
+                                                            "category": "Burger",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/22/e6d998eb-bee3-4aa0-9b9b-158f35b21be9_d72b93cc-1565-4e30-84e1-9bb96823e1df.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 7000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "196594441",
+                                                                    "groupName": "Icecream",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481119",
+                                                                            "name": "Strawberry ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481116",
+                                                                            "name": "Vanila ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481117",
+                                                                            "name": "Butterscotch ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481118",
+                                                                            "name": "Chocolate ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                },
+                                                                {
+                                                                    "groupId": "196594437",
+                                                                    "groupName": "Soft Drink",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481115",
+                                                                            "name": "Lassi",
+                                                                            "price": 8500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481113",
+                                                                            "name": "Cold drink",
+                                                                            "price": 4000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481114",
+                                                                            "name": "Lemon masla water",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930753",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_final_price": "0",
+                                                                "swiggy_listing_price": "7000"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540999",
+                                                            "name": "Vegie burger",
+                                                            "category": "Burger",
+                                                            "isVeg": 1,
+                                                            "price": 8500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "196594377",
+                                                                    "groupName": "Icecream",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481119",
+                                                                            "name": "Strawberry ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481116",
+                                                                            "name": "Vanila ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481117",
+                                                                            "name": "Butterscotch ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481118",
+                                                                            "name": "Chocolate ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                },
+                                                                {
+                                                                    "groupId": "196594372",
+                                                                    "groupName": "Soft Drink",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481115",
+                                                                            "name": "Lassi",
+                                                                            "price": 8500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481113",
+                                                                            "name": "Cold drink",
+                                                                            "price": 4000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481114",
+                                                                            "name": "Lemon masla water",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930880",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "8500",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541000",
+                                                            "name": "Noodle burger",
+                                                            "category": "Burger",
+                                                            "isVeg": 1,
+                                                            "price": 11200,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "196589839",
+                                                                    "groupName": "Soft Drink",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481115",
+                                                                            "name": "Lassi",
+                                                                            "price": 8500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481113",
+                                                                            "name": "Cold drink",
+                                                                            "price": 4000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481114",
+                                                                            "name": "Lemon masla water",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                },
+                                                                {
+                                                                    "groupId": "196589844",
+                                                                    "groupName": "Icecream",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481119",
+                                                                            "name": "Strawberry ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481116",
+                                                                            "name": "Vanila ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481117",
+                                                                            "name": "Butterscotch ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481118",
+                                                                            "name": "Chocolate ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930846",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "11200",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541001",
+                                                            "name": "Mastred burger",
+                                                            "category": "Burger",
+                                                            "isVeg": 1,
+                                                            "price": 12500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "196589853",
+                                                                    "groupName": "Soft Drink",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481115",
+                                                                            "name": "Lassi",
+                                                                            "price": 8500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481113",
+                                                                            "name": "Cold drink",
+                                                                            "price": 4000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481114",
+                                                                            "name": "Lemon masla water",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                },
+                                                                {
+                                                                    "groupId": "196589855",
+                                                                    "groupName": "Icecream",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481119",
+                                                                            "name": "Strawberry ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481116",
+                                                                            "name": "Vanila ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481117",
+                                                                            "name": "Butterscotch ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481118",
+                                                                            "name": "Chocolate ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930838",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_final_price": "0",
+                                                                "swiggy_listing_price": "12500"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541002",
+                                                            "name": "Spicy paaner burger",
+                                                            "category": "Burger",
+                                                            "isVeg": 1,
+                                                            "price": 15500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "196594420",
+                                                                    "groupName": "Soft Drink",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481115",
+                                                                            "name": "Lassi",
+                                                                            "price": 8500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481113",
+                                                                            "name": "Cold drink",
+                                                                            "price": 4000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481114",
+                                                                            "name": "Lemon masla water",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                },
+                                                                {
+                                                                    "groupId": "196594424",
+                                                                    "groupName": "Icecream",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481119",
+                                                                            "name": "Strawberry ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481116",
+                                                                            "name": "Vanila ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481117",
+                                                                            "name": "Butterscotch ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481118",
+                                                                            "name": "Chocolate ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930865",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "15500",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541003",
+                                                            "name": "Baked cheese burger",
+                                                            "category": "Burger",
+                                                            "isVeg": 1,
+                                                            "price": 18500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "196589998",
+                                                                    "groupName": "Soft Drink",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481115",
+                                                                            "name": "Lassi",
+                                                                            "price": 8500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481113",
+                                                                            "name": "Cold drink",
+                                                                            "price": 4000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481114",
+                                                                            "name": "Lemon masla water",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                },
+                                                                {
+                                                                    "groupId": "196590002",
+                                                                    "groupName": "Icecream",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481119",
+                                                                            "name": "Strawberry ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481116",
+                                                                            "name": "Vanila ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481117",
+                                                                            "name": "Butterscotch ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481118",
+                                                                            "name": "Chocolate ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930755",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "18500",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541004",
+                                                            "name": "New spicy hut special burger",
+                                                            "category": "Burger",
+                                                            "isVeg": 1,
+                                                            "price": 25500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "196589209",
+                                                                    "groupName": "Soft Drink",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481115",
+                                                                            "name": "Lassi",
+                                                                            "price": 8500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481113",
+                                                                            "name": "Cold drink",
+                                                                            "price": 4000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481114",
+                                                                            "name": "Lemon masla water",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                },
+                                                                {
+                                                                    "groupId": "196589215",
+                                                                    "groupName": "Icecream",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481119",
+                                                                            "name": "Strawberry ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481116",
+                                                                            "name": "Vanila ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481117",
+                                                                            "name": "Butterscotch ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481118",
+                                                                            "name": "Chocolate ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930844",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "25500",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541039",
+                                                            "name": "Chicken tikka bugur",
+                                                            "category": "Burger",
+                                                            "price": 21000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930785",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "21000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541040",
+                                                            "name": "Chicken tikey bugur",
+                                                            "category": "Burger",
+                                                            "price": 14000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930784",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "14000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541041",
+                                                            "name": "B bq chicken bugur",
+                                                            "category": "Burger",
+                                                            "price": 21000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930756",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "21000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541042",
+                                                            "name": "Chicken breast bugur",
+                                                            "category": "Burger",
+                                                            "price": 21000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930769",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "21000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ],
+                                            "subtitleSuffix": {},
+                                            "image": "FOOD_CATALOG/IMAGES/CMS/2026/1/22/e6d998eb-bee3-4aa0-9b9b-158f35b21be9_d72b93cc-1565-4e30-84e1-9bb96823e1df.JPG",
+                                            "categoryId": "31238688"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Soup",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540973",
+                                                            "name": "Ceram of tomato",
+                                                            "category": "Soup",
+                                                            "isVeg": 1,
+                                                            "price": 15500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930763",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_final_price": "0",
+                                                                "swiggy_listing_price": "15500"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540974",
+                                                            "name": "Manchow soup",
+                                                            "category": "Soup",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/27/a13f77d8-7afe-4eab-9d7b-95b79df96184_f20ea310-d654-41a6-a103-d5ff8f83b88f.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 15500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930834",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_final_price": "0",
+                                                                "swiggy_listing_price": "15500"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540975",
+                                                            "name": "Hot and sour soup",
+                                                            "category": "Soup",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/8/8571a862-93a5-4fdb-b0a2-59921e1b1ce4_cc68bdfd-595b-4624-aac9-6095a03e6762.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 15500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930823",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "15500",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540976",
+                                                            "name": "Cream of vegetable",
+                                                            "category": "Soup",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/18/74902bdd-b669-4a70-9f19-dabfc174c7fc_8d959cfb-dfe4-461d-a5f0-c148db6ea224.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 15500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930808",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "15500",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540977",
+                                                            "name": "Ceram of swee corn soup",
+                                                            "category": "Soup",
+                                                            "isVeg": 1,
+                                                            "price": 15500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930762",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "15500",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541022",
+                                                            "name": "Chicken manchow soup",
+                                                            "category": "Soup",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/17/9f5767c7-3313-43fb-8139-fc25149a9a15_1baaaa9b-7d03-43c7-9701-269ef211d5ad.JPG",
+                                                            "price": 21000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930778",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "21000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541023",
+                                                            "name": "Chicken hot sour soup",
+                                                            "category": "Soup",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/13/93e45392-e479-458e-babc-51080971db2f_329bba82-959e-45a5-93c7-62be627b4b30.JPG",
+                                                            "price": 21000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930776",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_final_price": "0",
+                                                                "swiggy_listing_price": "21000"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541024",
+                                                            "name": "Creamy of chicken soup",
+                                                            "category": "Soup",
+                                                            "price": 21000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930809",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "21000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541025",
+                                                            "name": "Chicken lemon corinder soup",
+                                                            "category": "Soup",
+                                                            "price": 21000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930777",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "21000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ],
+                                            "subtitleSuffix": {},
+                                            "image": "FOOD_CATALOG/IMAGES/CMS/2026/1/27/a13f77d8-7afe-4eab-9d7b-95b79df96184_f20ea310-d654-41a6-a103-d5ff8f83b88f.JPG",
+                                            "categoryId": "31238683"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Pizza",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540989",
+                                                            "name": "Top 4 veg pizza",
+                                                            "category": "Pizza",
+                                                            "description": "Capsicum, onion, mushroom, tomato",
+                                                            "isVeg": 1,
+                                                            "price": 26500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930874",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "26500",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540990",
+                                                            "name": "Paneer tikka pizza",
+                                                            "category": "Pizza",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/22/e2a26c23-df70-42ba-97bf-56fc83d91a01_5cde842f-1192-4c25-91c5-95d56caceaff.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 29500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930854",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "29500",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540991",
+                                                            "name": "Three cheese pizza",
+                                                            "category": "Pizza",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/19/105ad862-9809-45af-b848-28bb5c10e1b0_bcc02a39-1500-4c09-853d-e5e9e3f7f5aa.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 29500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930871",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "29500",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540992",
+                                                            "name": "Chilli paneer pizza",
+                                                            "category": "Pizza",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/18/64525533-461b-4841-84f1-81c29263d7c6_d8b6f49b-933f-4d2f-8ade-16e838b0d373.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 29500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930796",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "29500",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540993",
+                                                            "name": "Spicy mushroom pizza",
+                                                            "category": "Pizza",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/14/ad3ca028-c9c8-4c2f-82fd-1e533d939dfb_0cf13249-1950-4313-b26b-0ea7be31a8f3.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 29500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930863",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "29500",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540994",
+                                                            "name": "New spicy hut special pizza",
+                                                            "category": "Pizza",
+                                                            "isVeg": 1,
+                                                            "price": 32500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930845",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "32500",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541033",
+                                                            "name": "Chicken tikka pizza",
+                                                            "category": "Pizza",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/8/6c4d00ae-5ebe-4187-a3fe-49e8b2b27c29_5604d649-a942-4b46-94d7-cb8a7d36c2da.JPG",
+                                                            "price": 32200,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930786",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "32200",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541034",
+                                                            "name": "Chilli chicken pizza",
+                                                            "category": "Pizza",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/18/a0716afc-f227-4c91-87ea-9f625bcce7e1_3c703292-0f85-44d5-9481-f43f13366d80.JPG",
+                                                            "price": 32200,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930791",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "32200",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541035",
+                                                            "name": "Chicken special pizza",
+                                                            "category": "Pizza",
+                                                            "price": 35000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930783",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "35000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ],
+                                            "subtitleSuffix": {},
+                                            "image": "FOOD_CATALOG/IMAGES/CMS/2026/1/22/e2a26c23-df70-42ba-97bf-56fc83d91a01_5cde842f-1192-4c25-91c5-95d56caceaff.JPG",
+                                            "categoryId": "31238686"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Shake",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540962",
+                                                            "name": "Cold coffe",
+                                                            "category": "Shake",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/29/4a63ee2a-4611-4b7f-b34f-4a4acb0b9226_930b6641-9972-48e9-814e-362ecc717c92.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 15500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930805",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "15500",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540963",
+                                                            "name": "Mango shake",
+                                                            "category": "Shake",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/23/d28bf9b9-9cb6-431f-b92b-0b678891e715_18faf8cb-2aad-4823-b841-1157a33b3c23.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 17000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930835",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "17000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540964",
+                                                            "name": "Strawberry shake",
+                                                            "category": "Shake",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/7/de62fc01-c06d-4b05-8cad-fbb7fa29960c_d48355dd-dd0f-4d29-a233-7e9b53bbdc27.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 17000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930868",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "17000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540965",
+                                                            "name": "Chocolate shake",
+                                                            "category": "Shake",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/19/a5809bd5-995e-482d-8e28-7650baa4f014_fb54f6ae-f3cd-43da-a6ee-fddc27b46e7c.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 18000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930802",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_final_price": "0",
+                                                                "swiggy_listing_price": "18000"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540966",
+                                                            "name": "Vanila shake",
+                                                            "category": "Shake",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/14/68e73944-e2bc-4606-9308-a2b838620a53_7ff235a3-0627-4f9a-92ac-fd77ad5f5315.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 17000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930876",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "17000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540967",
+                                                            "name": "Butterscotch shake",
+                                                            "category": "Shake",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/7/e3a703c2-2f44-4b97-8d9f-e3c557ad6266_36403ce1-8e8b-4e31-a086-1ff78b1bf6cb.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 21000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930761",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_final_price": "0",
+                                                                "swiggy_listing_price": "21000"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ],
+                                            "subtitleSuffix": {},
+                                            "image": "FOOD_CATALOG/IMAGES/CMS/2026/1/29/4a63ee2a-4611-4b7f-b34f-4a4acb0b9226_930b6641-9972-48e9-814e-362ecc717c92.JPG",
+                                            "categoryId": "31238679"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Wrap",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540978",
+                                                            "name": "Veg wrap",
+                                                            "category": "Wrap",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/22/3641316b-b2dc-4312-a310-2e59b2e95de2_a539e887-ad53-4e0a-ba0d-31cfe64c724a.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 14000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930884",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "14000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540979",
+                                                            "name": "Chilli paneer wrap",
+                                                            "category": "Wrap",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/19/308df647-a34b-4eb1-a086-543bc2aeab84_cb21dc11-d16e-440d-b4bf-3edf64a8f596.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 21000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930797",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "21000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540980",
+                                                            "name": "Paneer tikka wrap",
+                                                            "category": "Wrap",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/19/9119d405-d1bc-46f4-a9c3-cfb47d8d44f1_2c1d4280-27f7-4e78-9411-c12e03c3d9b9.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 22500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "imageBadges": [
+                                                                {
+                                                                    "imageId": "Health%20Hub/Sub%20categories/Item%20badges/Low%20cal%201_1.png"
+                                                                }
+                                                            ],
+                                                            "parentId": "62930856",
+                                                            "menuFilterIds": [
+                                                                "EATRIGHT",
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "22500",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540981",
+                                                            "name": "Chilli mushroom wrap",
+                                                            "category": "Wrap",
+                                                            "isVeg": 1,
+                                                            "price": 21000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930795",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "21000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541026",
+                                                            "name": "Chilli chicken wrap",
+                                                            "category": "Wrap",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/26/126d587c-5c63-41e7-963e-901d0bd9f26a_4338a9d8-0961-4857-8776-7217197162d9.JPG",
+                                                            "price": 28000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930792",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "28000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541027",
+                                                            "name": "Chicken tikka wrap",
+                                                            "category": "Wrap",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/18/e217edcc-d3e6-4eb2-a5eb-03053dab4884_0d4fc050-a866-49ca-8a8f-e456ae7079d0.JPG",
+                                                            "price": 28000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "imageBadges": [
+                                                                {
+                                                                    "imageId": "Health%20Hub/Sub%20categories/Item%20badges/Low%20cal%201_1.png"
+                                                                }
+                                                            ],
+                                                            "parentId": "62930788",
+                                                            "menuFilterIds": [
+                                                                "EATRIGHT",
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "28000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541028",
+                                                            "name": "B bq chicken wrap",
+                                                            "category": "Wrap",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/30/db3796fc-8343-4e61-9461-850adb0a26c8_930cf3dc-9287-4423-9f4e-4970f4c99104.JPG",
+                                                            "price": 28000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930757",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_final_price": "0",
+                                                                "swiggy_listing_price": "28000"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ],
+                                            "subtitleSuffix": {},
+                                            "image": "FOOD_CATALOG/IMAGES/CMS/2026/1/22/3641316b-b2dc-4312-a310-2e59b2e95de2_a539e887-ad53-4e0a-ba0d-31cfe64c724a.JPG",
+                                            "categoryId": "31238684"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Paste",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540995",
+                                                            "name": "Red sauce pasta",
+                                                            "category": "Paste",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/18/489bb58f-bef0-4ab9-9f62-8ef823050fd4_15045249-9550-41e4-9be2-f5feb37c152c.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 26500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "196589861",
+                                                                    "groupName": "Soft Drink",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481115",
+                                                                            "name": "Lassi",
+                                                                            "price": 8500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481113",
+                                                                            "name": "Cold drink",
+                                                                            "price": 4000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481114",
+                                                                            "name": "Lemon masla water",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                },
+                                                                {
+                                                                    "groupId": "196589866",
+                                                                    "groupName": "Icecream",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481119",
+                                                                            "name": "Strawberry ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481116",
+                                                                            "name": "Vanila ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481117",
+                                                                            "name": "Butterscotch ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481118",
+                                                                            "name": "Chocolate ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930860",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "26500",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540996",
+                                                            "name": "White sauce pasta",
+                                                            "category": "Paste",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/26/cda13ef8-91eb-4483-bc68-c9e7ad4ec78d_f8d2e035-412b-429b-ac02-bf1d8ccef6ce.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 26500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "196594336",
+                                                                    "groupName": "Soft Drink",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481115",
+                                                                            "name": "Lassi",
+                                                                            "price": 8500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481113",
+                                                                            "name": "Cold drink",
+                                                                            "price": 4000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481114",
+                                                                            "name": "Lemon masla water",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                },
+                                                                {
+                                                                    "groupId": "196594345",
+                                                                    "groupName": "Icecream",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481119",
+                                                                            "name": "Strawberry ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481116",
+                                                                            "name": "Vanila ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481117",
+                                                                            "name": "Butterscotch ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481118",
+                                                                            "name": "Chocolate ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930885",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_final_price": "0",
+                                                                "swiggy_listing_price": "26500"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540997",
+                                                            "name": "Both sauce pasta",
+                                                            "category": "Paste",
+                                                            "isVeg": 1,
+                                                            "price": 26500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "196589888",
+                                                                    "groupName": "Soft Drink",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481115",
+                                                                            "name": "Lassi",
+                                                                            "price": 8500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481113",
+                                                                            "name": "Cold drink",
+                                                                            "price": 4000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481114",
+                                                                            "name": "Lemon masla water",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                },
+                                                                {
+                                                                    "groupId": "196589891",
+                                                                    "groupName": "Icecream",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481119",
+                                                                            "name": "Strawberry ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481116",
+                                                                            "name": "Vanila ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481117",
+                                                                            "name": "Butterscotch ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481118",
+                                                                            "name": "Chocolate ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930758",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "26500",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541036",
+                                                            "name": "Chicken red pasta",
+                                                            "category": "Paste",
+                                                            "price": 35000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "196589953",
+                                                                    "groupName": "Soft Drink",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481115",
+                                                                            "name": "Lassi",
+                                                                            "price": 8500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481113",
+                                                                            "name": "Cold drink",
+                                                                            "price": 4000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481114",
+                                                                            "name": "Lemon masla water",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                },
+                                                                {
+                                                                    "groupId": "196589957",
+                                                                    "groupName": "Icecream",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481119",
+                                                                            "name": "Strawberry ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481116",
+                                                                            "name": "Vanila ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481117",
+                                                                            "name": "Butterscotch ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481118",
+                                                                            "name": "Chocolate ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930782",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_final_price": "0",
+                                                                "swiggy_listing_price": "35000"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541037",
+                                                            "name": "Chicken white pasta",
+                                                            "category": "Paste",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/27/8338f6b4-e10e-481a-ac54-1db2589c7c9f_03e56e7e-7d71-42b8-968d-4161c8de7178.JPG",
+                                                            "price": 35000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "196594384",
+                                                                    "groupName": "Soft Drink",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481115",
+                                                                            "name": "Lassi",
+                                                                            "price": 8500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481113",
+                                                                            "name": "Cold drink",
+                                                                            "price": 4000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481114",
+                                                                            "name": "Lemon masla water",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                },
+                                                                {
+                                                                    "groupId": "196594390",
+                                                                    "groupName": "Icecream",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481119",
+                                                                            "name": "Strawberry ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481116",
+                                                                            "name": "Vanila ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481117",
+                                                                            "name": "Butterscotch ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481118",
+                                                                            "name": "Chocolate ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930789",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "35000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541038",
+                                                            "name": "Chicken mix pasta",
+                                                            "category": "Paste",
+                                                            "price": 35000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "196589870",
+                                                                    "groupName": "Soft Drink",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481115",
+                                                                            "name": "Lassi",
+                                                                            "price": 8500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481113",
+                                                                            "name": "Cold drink",
+                                                                            "price": 4000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481114",
+                                                                            "name": "Lemon masla water",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                },
+                                                                {
+                                                                    "groupId": "196589873",
+                                                                    "groupName": "Icecream",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481119",
+                                                                            "name": "Strawberry ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481116",
+                                                                            "name": "Vanila ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481117",
+                                                                            "name": "Butterscotch ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481118",
+                                                                            "name": "Chocolate ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930779",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "35000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ],
+                                            "subtitleSuffix": {},
+                                            "image": "FOOD_CATALOG/IMAGES/CMS/2026/1/18/489bb58f-bef0-4ab9-9f62-8ef823050fd4_15045249-9550-41e4-9be2-f5feb37c152c.JPG",
+                                            "categoryId": "31238687"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Noodles",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541009",
+                                                            "name": "Egetable noodles",
+                                                            "category": "Noodles",
+                                                            "isVeg": 1,
+                                                            "price": 25500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "196594407",
+                                                                    "groupName": "Soft Drink",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481115",
+                                                                            "name": "Lassi",
+                                                                            "price": 8500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481113",
+                                                                            "name": "Cold drink",
+                                                                            "price": 4000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481114",
+                                                                            "name": "Lemon masla water",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                },
+                                                                {
+                                                                    "groupId": "196594412",
+                                                                    "groupName": "Icecream",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481119",
+                                                                            "name": "Strawberry ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481116",
+                                                                            "name": "Vanila ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481117",
+                                                                            "name": "Butterscotch ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481118",
+                                                                            "name": "Chocolate ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930812",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_final_price": "0",
+                                                                "swiggy_listing_price": "25500"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541010",
+                                                            "name": "Hakka noodles",
+                                                            "category": "Noodles",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/17/7ec47e87-00e3-499c-80e6-cc93c5568da6_52b86a34-8301-4275-8746-8d7f5276add8.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 28000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "196589987",
+                                                                    "groupName": "Soft Drink",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481115",
+                                                                            "name": "Lassi",
+                                                                            "price": 8500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481113",
+                                                                            "name": "Cold drink",
+                                                                            "price": 4000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481114",
+                                                                            "name": "Lemon masla water",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                },
+                                                                {
+                                                                    "groupId": "196589989",
+                                                                    "groupName": "Icecream",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481119",
+                                                                            "name": "Strawberry ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481116",
+                                                                            "name": "Vanila ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481117",
+                                                                            "name": "Butterscotch ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481118",
+                                                                            "name": "Chocolate ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930821",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "28000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541011",
+                                                            "name": "Singapuri noodles",
+                                                            "category": "Noodles",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/8/36e98aa6-f3e7-4558-be35-cac05fd8b30d_593a234a-0033-44ae-8d59-294b82b4b069.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 28000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "196590009",
+                                                                    "groupName": "Soft Drink",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481115",
+                                                                            "name": "Lassi",
+                                                                            "price": 8500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481113",
+                                                                            "name": "Cold drink",
+                                                                            "price": 4000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481114",
+                                                                            "name": "Lemon masla water",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                },
+                                                                {
+                                                                    "groupId": "196590013",
+                                                                    "groupName": "Icecream",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481119",
+                                                                            "name": "Strawberry ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481116",
+                                                                            "name": "Vanila ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481117",
+                                                                            "name": "Butterscotch ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481118",
+                                                                            "name": "Chocolate ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930862",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "28000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541046",
+                                                            "name": "Chicken noodles",
+                                                            "category": "Noodles",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/19/f81b0f35-98d6-40b4-b634-fdb76675044d_07534093-069e-4ccb-93ac-4416c247d453.JPG",
+                                                            "price": 40600,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "196589878",
+                                                                    "groupName": "Soft Drink",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481115",
+                                                                            "name": "Lassi",
+                                                                            "price": 8500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481113",
+                                                                            "name": "Cold drink",
+                                                                            "price": 4000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481114",
+                                                                            "name": "Lemon masla water",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                },
+                                                                {
+                                                                    "groupId": "196589884",
+                                                                    "groupName": "Icecream",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481119",
+                                                                            "name": "Strawberry ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481116",
+                                                                            "name": "Vanila ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481117",
+                                                                            "name": "Butterscotch ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481118",
+                                                                            "name": "Chocolate ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930780",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "40600",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541047",
+                                                            "name": "Chicken hakka noodles",
+                                                            "category": "Noodles",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/21/c5d68456-5094-4be1-b2c7-216a09472146_482aa485-86aa-457b-a739-4d4b11da4a61.JPG",
+                                                            "price": 42000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "196594394",
+                                                                    "groupName": "Soft Drink",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481115",
+                                                                            "name": "Lassi",
+                                                                            "price": 8500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481113",
+                                                                            "name": "Cold drink",
+                                                                            "price": 4000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481114",
+                                                                            "name": "Lemon masla water",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                },
+                                                                {
+                                                                    "groupId": "196594398",
+                                                                    "groupName": "Icecream",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "132481119",
+                                                                            "name": "Strawberry ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481116",
+                                                                            "name": "Vanila ice cream",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481117",
+                                                                            "name": "Butterscotch ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "132481118",
+                                                                            "name": "Chocolate ice cream",
+                                                                            "price": 11200,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": -1,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930775",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "42000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ],
+                                            "subtitleSuffix": {},
+                                            "image": "FOOD_CATALOG/IMAGES/CMS/2026/1/17/7ec47e87-00e3-499c-80e6-cc93c5568da6_52b86a34-8301-4275-8746-8d7f5276add8.JPG",
+                                            "categoryId": "31238690"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Icecream",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541018",
+                                                            "name": "Vanila ice cream",
+                                                            "category": "Icecream",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/28/4d4671ba-3f1a-4ae6-9632-c227af09a508_d0bc8534-2644-41ab-a791-21e14f12e3ab.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 7000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930875",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "7000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541019",
+                                                            "name": "Butterscotch ice cream",
+                                                            "category": "Icecream",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/14/9ad1c07e-8831-4234-975a-6cdfa344beed_200b0d59-a398-4194-85ec-acc6e56e038c.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 11200,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930760",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "11200",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541020",
+                                                            "name": "Chocolate ice cream",
+                                                            "category": "Icecream",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/23/48b1d12a-78eb-4a23-9de0-72b37721e8cf_016e4f08-c386-4bfe-a3be-7aa98fe178a4.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 11200,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930801",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "11200",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541021",
+                                                            "name": "Strawberry ice cream",
+                                                            "category": "Icecream",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/8/ff33d9f3-6108-445e-afa8-34725c35a925_a03b5d19-2dd8-47c9-8093-29e20efb4e50.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 7000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930867",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_final_price": "0",
+                                                                "swiggy_listing_price": "7000"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ],
+                                            "subtitleSuffix": {},
+                                            "image": "FOOD_CATALOG/IMAGES/CMS/2026/1/28/4d4671ba-3f1a-4ae6-9632-c227af09a508_d0bc8534-2644-41ab-a791-21e14f12e3ab.JPG",
+                                            "categoryId": "31238692"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Soft Drink",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540970",
+                                                            "name": "Cold drink",
+                                                            "category": "Soft Drink",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/29/83b65514-f33e-4b42-b6d0-cd8c7a0d2600_57e936ad-fdc2-406f-b8a7-41bb8907695a.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 4000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930806",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "4000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540971",
+                                                            "name": "Lemon masla water",
+                                                            "category": "Soft Drink",
+                                                            "isVeg": 1,
+                                                            "price": 11200,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930832",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_final_price": "0",
+                                                                "swiggy_listing_price": "11200"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540972",
+                                                            "name": "Lassi",
+                                                            "category": "Soft Drink",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/29/2f758af7-a14f-4e33-9e15-dcacfd20cfe3_a87c4c43-a9fa-42ff-b4cb-5e2c55f6a8f7.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 8500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930830",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "8500",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ],
+                                            "subtitleSuffix": {},
+                                            "image": "FOOD_CATALOG/IMAGES/CMS/2026/1/29/83b65514-f33e-4b42-b6d0-cd8c7a0d2600_57e936ad-fdc2-406f-b8a7-41bb8907695a.JPG",
+                                            "categoryId": "31238682"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Frey",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541043",
+                                                            "name": "Chicken frey",
+                                                            "category": "Frey",
+                                                            "price": 42000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930771",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "42000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541044",
+                                                            "name": "Golden chicken frey",
+                                                            "category": "Frey",
+                                                            "price": 70000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930820",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "70000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109541045",
+                                                            "name": "Fried bonless",
+                                                            "category": "Frey",
+                                                            "price": 49000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930817",
+                                                            "menuFilterIds": [
+                                                                "NONVEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "49000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ],
+                                            "subtitleSuffix": {},
+                                            "categoryId": "31238693"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Tea",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540968",
+                                                            "name": "Tea",
+                                                            "category": "Tea",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/27/a4daa265-26ce-4771-ba30-5bfcdbbef7f9_867164cf-42fa-4c35-bde5-3cc025a080a8.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 4000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930870",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "4000",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ],
+                                            "subtitleSuffix": {},
+                                            "image": "FOOD_CATALOG/IMAGES/CMS/2026/1/27/a4daa265-26ce-4771-ba30-5bfcdbbef7f9_867164cf-42fa-4c35-bde5-3cc025a080a8.JPG",
+                                            "categoryId": "31238680"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Coffee",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "109540969",
+                                                            "name": "Coffee",
+                                                            "category": "Coffee",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/30/abf0cabf-fd6c-4f86-b770-5542e01deeab_42ed8dfa-da69-448f-b459-870d1d842986.JPG",
+                                                            "isVeg": 1,
+                                                            "price": 8500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            },
+                                                            "parentId": "62930804",
+                                                            "menuFilterIds": [
+                                                                "VEG"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "8500",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ],
+                                            "subtitleSuffix": {},
+                                            "image": "FOOD_CATALOG/IMAGES/CMS/2026/1/30/abf0cabf-fd6c-4f86-b770-5542e01deeab_42ed8dfa-da69-448f-b459-870d1d842986.JPG",
+                                            "categoryId": "31238681"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.FAQSection",
+                                            "title": "FAQs about New Spicy Hut Restaurant",
+                                            "qnas": [
+                                                {
+                                                    "question": "Does New Spicy Hut Restaurant deliver food in Jalandhar on Swiggy?",
+                                                    "answer": "Yes, New Spicy Hut Restaurant delivers food in Jalandhar through Swiggy. Customers can order their favorite dishes online and enjoy doorstep delivery."
+                                                },
+                                                {
+                                                    "question": "What is New Spicy Hut Restaurant known for?",
+                                                    "answer": "New Spicy Hut Restaurant is known for its indian and popular indian dishes."
+                                                },
+                                                {
+                                                    "question": "Does New Spicy Hut Restaurant offer vegetarian options?",
+                                                    "answer": "Yes, New Spicy Hut Restaurant offers both options, including 96 vegetarian items."
+                                                },
+                                                {
+                                                    "question": "How can I order from New Spicy Hut Restaurant online?",
+                                                    "answer": "Customers can open the Swiggy app or website, search for New Spicy Hut Restaurant in Jalandhar, browse the menu, add dishes to the cart, and place the order online."
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                                            "type": "FSSAI",
+                                            "imageId": "fssai_final_edss9i",
+                                            "text": [
+                                                "License No. 22122020001237"
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                                            "name": "New Spicy Hut Restaurant",
+                                            "area": "South_Jalandhar",
+                                            "completeAddress": "VASAL MALL, POLICE LINE ROAD, ADJOINING BIG BAZAR, OPP. HOTEL PRESIDENT, Police Station 6, Jalandhar-1 (P/S 1,2,3,4,5, Sub Division Jalandhar-1), Jalandhar, Punjab - 144001"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.PopularSearches",
+                                            "title": "Popular Searches",
+                                            "interlinkingSeoInfo": [
+                                                {
+                                                    "title": "Popular Restaurant In Jalandhar",
+                                                    "links": [
+                                                        {
+                                                            "label": "Captain Sam's Pizza",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/captain-sams-pizza-model-town-rest923930"
+                                                        },
+                                                        {
+                                                            "label": "Aggarwal Vaishno Dhaba",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/aggarwal-vaishno-dhaba-model-town-rest283662"
+                                                        },
+                                                        {
+                                                            "label": "Pizza Wings",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/pizza-wings-aman-nagar-rest1008357"
+                                                        },
+                                                        {
+                                                            "label": "Patwari Vaishno Dhaba",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/patwari-vaishno-dhaba-rama-mandi-rest159518"
+                                                        },
+                                                        {
+                                                            "label": "Hari Burger",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/hari-burger-krishna-nagar-rest263164"
+                                                        },
+                                                        {
+                                                            "label": "Kanta Chhuri",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/kanta-chhuri-adarsh-nagar-rest125658"
+                                                        },
+                                                        {
+                                                            "label": "Burger King",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/burger-king-guru-nanak-mission-chowk-rest91788"
+                                                        },
+                                                        {
+                                                            "label": "Guru Kirpa Pure Vegetarian Food",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/guru-kirpa-pure-vegetarian-food-shiv-nagar-rest284035"
+                                                        },
+                                                        {
+                                                            "label": "Zig Zag Hungry Point",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/zig-zag-hungry-point-kot-bazar-rest231055"
+                                                        },
+                                                        {
+                                                            "label": "Bliss Vaishno Dhaba",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/bliss-vaishno-dhaba-mohyal-nagar-rest115812"
+                                                        },
+                                                        {
+                                                            "label": "Adi's Cafe N Dine",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/adis-cafe-n-dine-police-station-2-rest479379"
+                                                        },
+                                                        {
+                                                            "label": "GFC Chaap Hub",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/gfc-chaap-hub-durga-colony-rest137429"
+                                                        },
+                                                        {
+                                                            "label": "Food Bazar",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/food-bazar-model-town-rest284183"
+                                                        },
+                                                        {
+                                                            "label": "Virasat Punjabi Dhaba\t",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/virasat-punjabi-dhaba--under-bridge-road-rest668619"
+                                                        },
+                                                        {
+                                                            "label": "Nagpal Cholle Bhature",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/nagpal-cholle-bhature-mall-road-rest575581"
+                                                        },
+                                                        {
+                                                            "label": "Raju cheese corner",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/raju-cheese-corner-model-town-rest95345"
+                                                        },
+                                                        {
+                                                            "label": "Himalaya Fast Food",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/himalaya-fast-food-north-jalandhar-rest964864"
+                                                        },
+                                                        {
+                                                            "label": "McDonald's",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/mcdonalds-lajpat-nagar-rest254136"
+                                                        },
+                                                        {
+                                                            "label": "Friends Burger Corner",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/friends-burger-corner-model-house-rest114720"
+                                                        },
+                                                        {
+                                                            "label": "Yummy Delicious Till Last Bite",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/yummy-delicious-till-last-bite-model-town-rest283810"
+                                                        },
+                                                        {
+                                                            "label": "Devil Momos",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/devil-momos-vijay-nagar-rest1318039"
+                                                        },
+                                                        {
+                                                            "label": "Sweety Juice Bar&Restaurant",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/sweety-juice-bar-and-restaurant-neela-mahal-rest96775"
+                                                        },
+                                                        {
+                                                            "label": "Aar Kay Vaishno Dhaba",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/aar-kay-vaishno-dhaba-abadpura-rest248278"
+                                                        },
+                                                        {
+                                                            "label": "Hotel Plaza Bar & Restaurant",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/hotel-plaza-bar-and-restaurant-krishna-nagar-rest774525"
+                                                        },
+                                                        {
+                                                            "label": "Burger Singh(Big Punjabi Burgers)",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/burger-singh-big-punjabi-burgers--model-town-rest808002"
+                                                        },
+                                                        {
+                                                            "label": "Brgr Shurger",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/brgr-shurger-south-jalandhar-rest1288509"
+                                                        },
+                                                        {
+                                                            "label": "New Aar Kay Vaishno Dhaba",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/new-aar-kay-vaishno-dhaba-kapurthala-road-rest112607"
+                                                        },
+                                                        {
+                                                            "label": "New Parkash Ice Cream",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/new-parkash-ice-cream-transport-nagar-rest103583"
+                                                        },
+                                                        {
+                                                            "label": "Taco Bell",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/taco-bell-jalandhar-rest797938"
+                                                        },
+                                                        {
+                                                            "label": "S.K Dhaba Vegetarian",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/s-k-dhaba-vegetarian-model-town-rest80969"
+                                                        },
+                                                        {
+                                                            "label": "ABC Pizza Wale",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/abc-pizza-wale-north-jalandhar-rest1146488"
+                                                        },
+                                                        {
+                                                            "label": "Patwari Vaishno Dhabha",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/patwari-vaishno-dhabha-ansal-plaza-rest961959"
+                                                        },
+                                                        {
+                                                            "label": "ARK Vaishno Dhaba",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/ark-vaishno-dhaba-moti-nagar-rest96780"
+                                                        },
+                                                        {
+                                                            "label": "KFC",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/kfc-mahavir-marg-rest347917"
+                                                        },
+                                                        {
+                                                            "label": "WOK Singh",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/wok-singh-model-town-rest311597"
+                                                        },
+                                                        {
+                                                            "label": "Uttam Food Court",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/uttam-food-court-adarsh-nagar-rest175825"
+                                                        },
+                                                        {
+                                                            "label": "VPR Chennai Special",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/vpr-chennai-special-north-jalandhar-rest1261745"
+                                                        },
+                                                        {
+                                                            "label": "ASF (American Style Fried) PPR Mall",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/asf-american-style-fried-ppr-mall-ppr-mall-rest80978"
+                                                        },
+                                                        {
+                                                            "label": "Express Vegetarian",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/express-vegetarian-model-town-rest80786"
+                                                        },
+                                                        {
+                                                            "label": "Bonfire",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/bonfire-model-town-rest80977"
+                                                        },
+                                                        {
+                                                            "label": "The Sam Pizza",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/the-sam-pizza-north-jalandhar-rest1370438"
+                                                        },
+                                                        {
+                                                            "label": "Ashu Amritsari Kulcha Corner",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/ashu-amritsari-kulcha-corner-south-jalandhar-rest1198239"
+                                                        },
+                                                        {
+                                                            "label": "Dashmesh Vaishno Dhaba",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/dashmesh-vaishno-dhaba-rama-mandi-rest131466"
+                                                        },
+                                                        {
+                                                            "label": "UFC Chaap Nation",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/ufc-chaap-nation-gurdev-nagar-rest480061"
+                                                        },
+                                                        {
+                                                            "label": "Muscleholics",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/muscleholics-ppr-mall-rest93371"
+                                                        },
+                                                        {
+                                                            "label": "ASF (American Style Fried) Doaba Chowk",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/asf-american-style-fried-doaba-chowk-silver-plaza-mall-rest149342"
+                                                        },
+                                                        {
+                                                            "label": "Jass Bakers",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/jass-bakers-rainbow-road-rest96701"
+                                                        },
+                                                        {
+                                                            "label": "Nanak Vegetarian Dhaba",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/nanak-vegetarian-dhaba-model-town-rest285860"
+                                                        },
+                                                        {
+                                                            "label": "Nano Bites",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/nano-bites-north-jalandhar-rest1281404"
+                                                        },
+                                                        {
+                                                            "label": "Sharma Vaishno Dhaba",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/sharma-vaishno-dhaba-south-jalandhar-rest1189583"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "title": "City Hub Page",
+                                                    "links": [
+                                                        {
+                                                            "label": "Bangalore",
+                                                            "url": "https://www.swiggy.com/city/bangalore/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Hyderabad",
+                                                            "url": "https://www.swiggy.com/city/hyderabad/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Mumbai",
+                                                            "url": "https://www.swiggy.com/city/mumbai/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Chennai",
+                                                            "url": "https://www.swiggy.com/city/chennai/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Delhi",
+                                                            "url": "https://www.swiggy.com/city/delhi/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Pune",
+                                                            "url": "https://www.swiggy.com/city/pune/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Kolkata",
+                                                            "url": "https://www.swiggy.com/city/kolkata/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Gurgaon",
+                                                            "url": "https://www.swiggy.com/city/gurgaon/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Noida 1",
+                                                            "url": "https://www.swiggy.com/city/noida-1/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Kochi",
+                                                            "url": "https://www.swiggy.com/city/kochi/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Ahmedabad",
+                                                            "url": "https://www.swiggy.com/city/ahmedabad/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Chandigarh",
+                                                            "url": "https://www.swiggy.com/city/chandigarh/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Coimbatore",
+                                                            "url": "https://www.swiggy.com/city/coimbatore/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Jaipur",
+                                                            "url": "https://www.swiggy.com/city/jaipur/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Lucknow",
+                                                            "url": "https://www.swiggy.com/city/lucknow/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Thiruvananthapuram",
+                                                            "url": "https://www.swiggy.com/city/thiruvananthapuram/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Vizag",
+                                                            "url": "https://www.swiggy.com/city/vizag/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Central Goa",
+                                                            "url": "https://www.swiggy.com/city/central-goa/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Noida",
+                                                            "url": "https://www.swiggy.com/city/noida/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Surat",
+                                                            "url": "https://www.swiggy.com/city/surat/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Bhubaneswar",
+                                                            "url": "https://www.swiggy.com/city/bhubaneswar/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Indore",
+                                                            "url": "https://www.swiggy.com/city/indore/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Nagpur",
+                                                            "url": "https://www.swiggy.com/city/nagpur/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Vijayawada",
+                                                            "url": "https://www.swiggy.com/city/vijayawada/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Patna",
+                                                            "url": "https://www.swiggy.com/city/patna/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Guwahati",
+                                                            "url": "https://www.swiggy.com/city/guwahati/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Ludhiana",
+                                                            "url": "https://www.swiggy.com/city/ludhiana/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Vadodara",
+                                                            "url": "https://www.swiggy.com/city/vadodara/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Mangaluru",
+                                                            "url": "https://www.swiggy.com/city/mangaluru/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Mysore",
+                                                            "url": "https://www.swiggy.com/city/mysore/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Dehradun",
+                                                            "url": "https://www.swiggy.com/city/dehradun/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Faridabad",
+                                                            "url": "https://www.swiggy.com/city/faridabad/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Thrissur",
+                                                            "url": "https://www.swiggy.com/city/thrissur/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Bhopal",
+                                                            "url": "https://www.swiggy.com/city/bhopal/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Rajkot",
+                                                            "url": "https://www.swiggy.com/city/rajkot/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Madurai",
+                                                            "url": "https://www.swiggy.com/city/madurai/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Kanpur",
+                                                            "url": "https://www.swiggy.com/city/kanpur/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Kozhikode",
+                                                            "url": "https://www.swiggy.com/city/kozhikode/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Pondicherry",
+                                                            "url": "https://www.swiggy.com/city/pondicherry/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Varanasi",
+                                                            "url": "https://www.swiggy.com/city/varanasi/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Nashik",
+                                                            "url": "https://www.swiggy.com/city/nashik/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Tirupati",
+                                                            "url": "https://www.swiggy.com/city/tirupati/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Guntur",
+                                                            "url": "https://www.swiggy.com/city/guntur/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Trichy",
+                                                            "url": "https://www.swiggy.com/city/trichy/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Kota",
+                                                            "url": "https://www.swiggy.com/city/kota/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Raipur",
+                                                            "url": "https://www.swiggy.com/city/raipur/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Kollam",
+                                                            "url": "https://www.swiggy.com/city/kollam/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Vellore",
+                                                            "url": "https://www.swiggy.com/city/vellore/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Ranchi",
+                                                            "url": "https://www.swiggy.com/city/ranchi/order-online"
+                                                        },
+                                                        {
+                                                            "label": "Jalandhar",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/order-online"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "title": "Popular Dish Restaurants in Jalandhar",
+                                                    "links": [
+                                                        {
+                                                            "label": "Pizza",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/pizza-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Burger",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/burger-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Roll",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/roll-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Curry",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/curry-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Noodles",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/noodles-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Sandwich",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/sandwich-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Thali",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/thali-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Momos",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/momos-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Biryani",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/biryani-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Bhature",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/bhature-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Other dry starters",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/other-dry-starters-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Paratha",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/paratha-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Pasta",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/pasta-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Dosa",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/dosa-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Kulcha",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/kulcha-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Other rice varieties",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/other-rice-varieties-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Chaap",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/chaap-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Pie",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/pie-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Taco",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/taco-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Fried rice",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/fried-rice-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Puff",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/puff-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Cake",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/cake-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Tikki",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/tikki-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Roti",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/roti-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Naan",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/naan-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Salad",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/salad-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Manchurian",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/manchurian-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Pav bhaji",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/pav-bhaji-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Idli",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/idli-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Fries",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/fries-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Soft drinks",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/soft-drinks-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Pakoda",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/pakoda-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Garlic bread",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/garlic-bread-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Sweets",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/sweets-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Sub",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/sub-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Kachori",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/kachori-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Nuggets",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/nuggets-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Biscuit",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/biscuit-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Samosa",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/samosa-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Platter",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/platter-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Vada pav",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/vada-pav-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Maggi",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/maggi-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Poori (Breakfast)",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/poori-breakfast--dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Wings",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/wings-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Other egg starters",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/other-egg-starters-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Burrito",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/burrito-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Shake",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/shake-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Pastry",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/pastry-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Pulao",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/pulao-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Calzone",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/calzone-dish-restaurants"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "title": "Top QSR & Chains in Jalandhar",
+                                                    "links": [
+                                                        {
+                                                            "label": "Captain Sam's Pizza",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/captain-sams-pizza"
+                                                        },
+                                                        {
+                                                            "label": "Burgrill - OG's of Grilled Burger",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/burgrill-ogs-of-grilled-burger"
+                                                        },
+                                                        {
+                                                            "label": "IGP Cakes",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/igp-cakes"
+                                                        },
+                                                        {
+                                                            "label": "La Pino'z Pizza",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/la-pinoz-pizza"
+                                                        },
+                                                        {
+                                                            "label": "Haldiram's",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/haldirams"
+                                                        },
+                                                        {
+                                                            "label": "The Waffle Co.",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/the-waffle-co-"
+                                                        },
+                                                        {
+                                                            "label": "Havmor Ice Cream",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/havmor-ice-cream"
+                                                        },
+                                                        {
+                                                            "label": "The Belgian Waffle Xpress",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/the-belgian-waffle-xpress"
+                                                        },
+                                                        {
+                                                            "label": "Vadilal Ice Creams",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/vadilal-ice-creams"
+                                                        },
+                                                        {
+                                                            "label": "IGP sweets",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/igp-sweets"
+                                                        },
+                                                        {
+                                                            "label": "WarmOven Cake & Desserts",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/warmoven-cake-and-desserts"
+                                                        },
+                                                        {
+                                                            "label": "Gianis - Ice Cream, Shakes & Sundaes",
+                                                            "url": "https://www.swiggy.com/city/jalandhar/gianis-ice-cream-shakes-and-sundaes"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.SeoFooter",
+                                            "socialLinks": [
+                                                {
+                                                    "label": "Linkedin",
+                                                    "url": "https://www.linkedin.com/company/swiggy-in/"
+                                                },
+                                                {
+                                                    "label": "Instagram",
+                                                    "url": "https://www.instagram.com/swiggyindia/?hl=en"
+                                                },
+                                                {
+                                                    "label": "Facebook",
+                                                    "url": "https://www.facebook.com/swiggy.in/"
+                                                },
+                                                {
+                                                    "label": "Pinterest",
+                                                    "url": "https://in.pinterest.com/swiggyindia/"
+                                                },
+                                                {
+                                                    "label": "Twitter",
+                                                    "url": "https://twitter.com/Swiggy?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.AppInstallLinks",
+                                            "title": "For better experience,download the Swiggy app now",
+                                            "androidAppImage": "portal/m/play_store.png",
+                                            "androidAppLink": "https://play.google.com/store/apps/details?id=in.swiggy.android&referrer=utm_source%3Dswiggy%26utm_medium%3Dheader",
+                                            "iosAppImage": "portal/m/app_store.png",
+                                            "iosAppLink": "https://itunes.apple.com/in/app/id989540920?referrer=utm_source%3Dswiggy%26utm_medium%3Dhomepage"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.PageMetaInfo",
+                                            "title": "Order from New Spicy Hut Restaurant online in Jalandhar | Swiggy",
+                                            "description": "Order Online from New Spicy Hut Restaurant in South_Jalandhar, Jalandhar for delicious indian food. Enjoy fast delivery with Swiggy.",
+                                            "keywords": "New Spicy Hut Restaurant, South_Jalandhar, Jalandhar, indian, food delivery, order food online"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ],
+        "firstOffsetRequest": true,
+        "isQCLink": false
+    }
+}
+
+export default resMenu;

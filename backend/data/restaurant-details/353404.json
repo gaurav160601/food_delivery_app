@@ -1,0 +1,2023 @@
+{
+    "statusCode": 0,
+    "data": {
+        "statusMessage": "done successfully",
+        "cards": [
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+                        "text": "RNR Biryani - Taste of 1953",
+                        "headerStyling": {
+                            "textColor": "text_Highest_Emphasis",
+                            "textVariant": "header_H3_Black"
+                        }
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+                        "tabs": [
+                            {
+                                "id": "Order Online",
+                                "title": "Order Online"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                        "info": {
+                            "id": "353404",
+                            "name": "RNR Biryani - Taste of 1953",
+                            "city": "Bangalore",
+                            "slugs": {
+                                "restaurant": "rnr-biryani-taste-of-1953-rajajinagar",
+                                "city": "bangalore"
+                            },
+                            "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+                            "cloudinaryImageId": "titgwthozpmhyzjgdh5u",
+                            "locality": "Shivanahalli",
+                            "areaName": "Rajajinagar",
+                            "costForTwo": "₹350 for two",
+                            "costForTwoMessage": "₹NaN for two",
+                            "cuisines": [
+                                "Biryani",
+                                "South Indian",
+                                "Kebabs"
+                            ],
+                            "avgRating": 4.3,
+                            "feeDetails": {
+                                "restaurantId": "353404",
+                                "fees": [
+                                    {}
+                                ]
+                            },
+                            "parentId": "11620",
+                            "avgRatingString": "4.3",
+                            "totalRatingsString": "9.0K+",
+                            "sla": {
+                                "restaurantId": "353404",
+                                "deliveryTime": 36,
+                                "minDeliveryTime": 25,
+                                "maxDeliveryTime": 35,
+                                "lastMileTravel": 5.5,
+                                "serviceability": "SERVICEABLE",
+                                "stressFactor": 1,
+                                "rainMode": "RAIN_MODE_NONE",
+                                "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                                "zoneId": 68,
+                                "slaString": "35-40 mins",
+                                "lastMileTravelString": "5.5 km",
+                                "iconType": "ICON_TYPE_EMPTY"
+                            },
+                            "availability": {
+                                "nextCloseTime": "2026-08-02 03:00:00",
+                                "opened": true,
+                                "visibility": true,
+                                "restaurantClosedMeta": {}
+                            },
+                            "aggregatedDiscountInfo": {
+                                "header": "ITEMS",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "ITEMS | Use WELCOME",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "FREE DELIVERY",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "ITEMS | Use WELCOME Above ₹199",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "FREE DELIVERY",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "visible": true
+                            },
+                            "badges": {
+                                "imageBadges": [
+                                    {
+                                        "imageId": "brand_cards/Badges%202026/86_Best%20in%20Naati%20Style%20Biryani2026.png",
+                                        "description": "Top-rated for Naati Style Biryani, based on user votes."
+                                    }
+                                ]
+                            },
+                            "slugString": "rnr-biryani-taste-of-1953-rajajinagar",
+                            "labels": [
+                                {
+                                    "title": "Timings",
+                                    "message": "null"
+                                },
+                                {
+                                    "title": "Address",
+                                    "message": "Shivanahalli, Rajajinagar, Bangalore, Karnataka 560001"
+                                },
+                                {
+                                    "title": "Cuisines",
+                                    "message": "Biryani,South Indian,Kebabs"
+                                }
+                            ],
+                            "totalRatings": 1200,
+                            "aggregatedDiscountInfoV2": {
+                                "header": "ITEMS",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "ITEMS | Use WELCOME",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "FREE DELIVERY",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "ITEMS | Use WELCOME Above ₹199",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "FREE DELIVERY",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "couponDetailsCta": "View coupon details"
+                            },
+                            "type": "F",
+                            "similarRestaurantAvailable": "false",
+                            "headerBanner": {
+                                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/353404"
+                            },
+                            "tradeCampaignHeadersV2": [
+                                {
+                                    "discountType": "Percentage"
+                                },
+                                {
+                                    "discountType": "FREE_DELIVERY"
+                                }
+                            ],
+                            "availabilityServiceabilityMessage": "Temporarily closed for delivery",
+                            "orderabilityCommunication": {
+                                "title": {
+                                    "text": "Currently"
+                                },
+                                "subTitle": {
+                                    "text": "CLOSED"
+                                },
+                                "message": {
+                                    "text": "Uh-oh! Outlet is not accepting orders at the moment. They should be back by 11:00 AM",
+                                    "textColour": "primary"
+                                },
+                                "customIcon": {
+                                    "bgGradientColorStart": "#EB8322",
+                                    "bgGradientColorEnd": "#EE5803"
+                                },
+                                "commsStyling": {}
+                            },
+                            "hasBestsellerItems": true,
+                            "cartOrderabilityNudgeBanner": {
+                                "parameters": {},
+                                "presentation": {}
+                            },
+                            "latLong": "12.9715987,77.5945627",
+                            "backgroundImageOverlayInfo": {},
+                            "featuredSectionInfo": {},
+                            "timingsInfo": {
+                                "status": "Closed",
+                                "message": "Opens 11:00 am",
+                                "outletTiming": {
+                                    "infoList": [
+                                        {
+                                            "title": "Monday",
+                                            "subtitle": "11.00AM - 11.00PM",
+                                            "titleColor": "text_high_emphasis",
+                                            "subtitleColor": "text_high_emphasis"
+                                        },
+                                        {
+                                            "title": "Tuesday",
+                                            "subtitle": "11.00AM - 11.00PM",
+                                            "titleColor": "text_high_emphasis",
+                                            "subtitleColor": "text_high_emphasis"
+                                        },
+                                        {
+                                            "title": "Wednesday",
+                                            "subtitle": "11.00AM - 11.00PM",
+                                            "titleColor": "text_high_emphasis",
+                                            "subtitleColor": "text_high_emphasis"
+                                        },
+                                        {
+                                            "title": "Thursday",
+                                            "subtitle": "11.00AM - 11.00PM",
+                                            "titleColor": "text_high_emphasis",
+                                            "subtitleColor": "text_high_emphasis"
+                                        },
+                                        {
+                                            "title": "Friday",
+                                            "subtitle": "11.00AM - 11.00PM",
+                                            "titleColor": "text_high_emphasis",
+                                            "subtitleColor": "text_high_emphasis"
+                                        },
+                                        {
+                                            "title": "Saturday",
+                                            "subtitle": "11.00AM - 11.00PM",
+                                            "titleColor": "primary",
+                                            "subtitleColor": "primary"
+                                        },
+                                        {
+                                            "title": "Sunday",
+                                            "subtitle": "11.00AM - 11.00PM",
+                                            "titleColor": "text_high_emphasis",
+                                            "subtitleColor": "text_high_emphasis"
+                                        }
+                                    ],
+                                    "title": "Outlet timings"
+                                },
+                                "styleInfo": {
+                                    "titleColor": "negative",
+                                    "subtitleColor": "text_color_low_emphasis"
+                                }
+                            },
+                            "phone": "9109124323",
+                            "postalCode": "560001",
+                            "state": "Karnataka"
+                        },
+                        "analytics": {}
+                    },
+                    "relevance": {
+                        "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_AND_SHOW_MENU_OFFER_NUDGE",
+                        "sectionId": "MENU_ITEM_CART_UPDATE_POP_CROUTON"
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+                        "layout": {
+                            "rows": 1,
+                            "columns": 5,
+                            "horizontalScrollEnabled": true,
+                            "itemSpacing": 12,
+                            "lineSpacing": 10,
+                            "widgetPadding": {},
+                            "containerStyle": {
+                                "containerPadding": {
+                                    "left": 10,
+                                    "right": 10,
+                                    "bottom": 16
+                                }
+                            }
+                        },
+                        "id": "offerCollectionWidget_UX4",
+                        "gridElements": {
+                            "infoWithStyle": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                                "offers": [
+                                    {
+                                        "info": {
+                                            "header": "50% OFF UPTO ₹130",
+                                            "offerTag": "DEFAULT",
+                                            "offerTagColor": "#E46D47",
+                                            "offerIds": [
+                                                "353404-offer-0"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE WELCOME",
+                                            "description": "ABOVE ₹179",
+                                            "offerType": "offers",
+                                            "restId": "353404",
+                                            "offerLogo": "offers/generic",
+                                            "descriptionTextColor": "#7302060C",
+                                            "primaryDescription": "USE WELCOME"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "ITEMS AT ₹149",
+                                            "offerTag": "FLAT DEAL",
+                                            "offerTagColor": "#E46D47",
+                                            "offerIds": [
+                                                "353404-offer-1"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE DEALZONE",
+                                            "description": "ON SELECT ITEMS |",
+                                            "offerType": "offers",
+                                            "restId": "353404",
+                                            "offerLogo": "offers/deal-of-day",
+                                            "descriptionTextColor": "#7302060C",
+                                            "primaryDescription": "USE DEALZONE"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "FLAT ₹100 OFF",
+                                            "offerTag": "DEFAULT",
+                                            "offerTagColor": "#E46D47",
+                                            "offerIds": [
+                                                "353404-offer-2"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE FLAVORFUL",
+                                            "description": "ABOVE ₹249",
+                                            "offerType": "offers",
+                                            "restId": "353404",
+                                            "offerLogo": "offers/deal-of-day",
+                                            "descriptionTextColor": "#7302060C",
+                                            "primaryDescription": "USE FLAVORFUL"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "FREE DELIVERY",
+                                            "offerTag": "FLAT DEAL",
+                                            "offerTagColor": "#E46D47",
+                                            "offerIds": [
+                                                "353404-offer-3"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE PARTY",
+                                            "description": "NO MINIMUM ORDER",
+                                            "offerType": "offers",
+                                            "restId": "353404",
+                                            "offerLogo": "offers/generic",
+                                            "descriptionTextColor": "#7302060C",
+                                            "primaryDescription": "USE PARTY"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "FLAT 15% OFF",
+                                            "offerTag": "DEFAULT",
+                                            "offerTagColor": "#E46D47",
+                                            "offerIds": [
+                                                "353404-offer-4"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE GRANDFEAST",
+                                            "description": "ABOVE ₹599",
+                                            "offerType": "offers",
+                                            "restId": "353404",
+                                            "offerLogo": "offers/deal-of-day",
+                                            "descriptionTextColor": "#7302060C",
+                                            "primaryDescription": "USE GRANDFEAST"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    }
+                                ],
+                                "habitMilestoneInfo": {
+                                    "callout": {}
+                                },
+                                "loyaltyDiscoverPresentationInfo": {
+                                    "logoCtx": {}
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "groupedCard": {
+                    "cardGroupMap": {
+                        "REGULAR": {
+                            "cards": [
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                                            "badges": {},
+                                            "vegOnlyDetails": {
+                                                "imageId": "AutoVegOnly_qkjowj",
+                                                "title": "Showing only vegetarian options.",
+                                                "description": "Tap on the VEG ONLY button to turn off the setting"
+                                            },
+                                            "topRatedFilter": {
+                                                "attributes": {
+                                                    "displayText": "Ratings 4.0+"
+                                                }
+                                            },
+                                            "kidsCategoryFilter": {
+                                                "attributes": {
+                                                    "displayText": "Kids Favourites",
+                                                    "tooltip": {
+                                                        "enabled": true,
+                                                        "displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+                                                    }
+                                                }
+                                            },
+                                            "vegFilter": {
+                                                "attributes": {
+                                                    "displayText": "VEG"
+                                                }
+                                            },
+                                            "nonvegFilter": {
+                                                "attributes": {
+                                                    "displayText": "NONVEG"
+                                                }
+                                            }
+                                        },
+                                        "relevance": {
+                                            "type": "RELEVANCE_TYPE_ON_MENU_FILTER_TOGGLED",
+                                            "sectionId": "MENU_FILTER_TOGGLE"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Biryani",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000032",
+                                                            "name": "Chicken Biryani",
+                                                            "category": "Biryani",
+                                                            "description": "Aromatic basmati rice layered with tender chicken and a blend of royal spices. Served with raita.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/29/83b65514-f33e-4b42-b6d0-cd8c7a0d2600_57e936ad-fdc2-406f-b8a7-41bb8907695a.JPG",
+                                                            "inStock": 1,
+                                                            "price": 28900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "900000032-g1",
+                                                                    "groupName": "Choose your add-ons",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "900000032-a0",
+                                                                            "name": "Veg Raita",
+                                                                            "price": 4900,
+                                                                            "isVeg": 0,
+                                                                            "inStock": 1,
+                                                                            "isExcluded": false,
+                                                                            "isFree": false,
+                                                                            "type": "ITEM"
+                                                                        },
+                                                                        {
+                                                                            "id": "900000032-a1",
+                                                                            "name": "Onion Salad",
+                                                                            "price": 5400,
+                                                                            "isVeg": 0,
+                                                                            "inStock": 1,
+                                                                            "isExcluded": false,
+                                                                            "isFree": false,
+                                                                            "type": "ITEM"
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": 2,
+                                                                    "maxFreeAddons": 0,
+                                                                    "minAddons": 0,
+                                                                    "required": false
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#E46D47",
+                                                                "topBackgroundColor": "#FCE9E1",
+                                                                "bottomBackgroundColor": "#FFD4C7"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "1200+",
+                                                                    "ratingValue": "4.3"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300032",
+                                                            "menuFilterIds": [
+                                                                "NONVEG",
+                                                                "bestseller",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "28900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000033",
+                                                            "name": "Hyderabadi Chicken Dum Biryani",
+                                                            "category": "Biryani",
+                                                            "description": "The classic dum biryani slow-cooked in sealed handi, infused with saffron and mint.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/11/15/bad96266-8663-42c6-8842-2b01b1cc8677_7ca6d3fe-268d-48fb-a4b6-9baea13976c2.png_compressed",
+                                                            "inStock": 1,
+                                                            "price": 32900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "900000033-g1",
+                                                                    "groupName": "Choose your add-ons",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "900000033-a0",
+                                                                            "name": "Veg Raita",
+                                                                            "price": 4900,
+                                                                            "isVeg": 0,
+                                                                            "inStock": 1,
+                                                                            "isExcluded": false,
+                                                                            "isFree": false,
+                                                                            "type": "ITEM"
+                                                                        },
+                                                                        {
+                                                                            "id": "900000033-a1",
+                                                                            "name": "Salad",
+                                                                            "price": 5400,
+                                                                            "isVeg": 0,
+                                                                            "inStock": 1,
+                                                                            "isExcluded": false,
+                                                                            "isFree": false,
+                                                                            "type": "ITEM"
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": 2,
+                                                                    "maxFreeAddons": 0,
+                                                                    "minAddons": 0,
+                                                                    "required": false
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#E46D47",
+                                                                "topBackgroundColor": "#FCE9E1",
+                                                                "bottomBackgroundColor": "#FFD4C7"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "850+",
+                                                                    "ratingValue": "4.5"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300033",
+                                                            "menuFilterIds": [
+                                                                "NONVEG",
+                                                                "bestseller",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "32900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000034",
+                                                            "name": "Mutton Biryani",
+                                                            "category": "Biryani",
+                                                            "description": "Succulent mutton pieces cooked with fragrant long-grain rice in rich masala.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/6/04a3d65b-da99-4c62-8021-5abac1d214bb_2d0f6c2a-138e-4aa4-988a-9024bfe829e5.JPG",
+                                                            "inStock": 1,
+                                                            "price": 39900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "900000034-g1",
+                                                                    "groupName": "Choose your add-ons",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "900000034-a0",
+                                                                            "name": "Veg Raita",
+                                                                            "price": 4900,
+                                                                            "isVeg": 0,
+                                                                            "inStock": 1,
+                                                                            "isExcluded": false,
+                                                                            "isFree": false,
+                                                                            "type": "ITEM"
+                                                                        },
+                                                                        {
+                                                                            "id": "900000034-a1",
+                                                                            "name": "Onion Salad",
+                                                                            "price": 5400,
+                                                                            "isVeg": 0,
+                                                                            "inStock": 1,
+                                                                            "isExcluded": false,
+                                                                            "isFree": false,
+                                                                            "type": "ITEM"
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": 2,
+                                                                    "maxFreeAddons": 0,
+                                                                    "minAddons": 0,
+                                                                    "required": false
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.4",
+                                                                    "ratingCount": "640+",
+                                                                    "ratingValue": "4.4"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300034",
+                                                            "menuFilterIds": [
+                                                                "NONVEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "39900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000035",
+                                                            "name": "Veg Biryani",
+                                                            "category": "Biryani",
+                                                            "description": "Fresh seasonal vegetables tossed with aromatic basmati rice and biryani masala.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/8/6c4d00ae-5ebe-4187-a3fe-49e8b2b27c29_5604d649-a942-4b46-94d7-cb8a7d36c2da.JPG",
+                                                            "inStock": 1,
+                                                            "price": 23900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "900000035-g1",
+                                                                    "groupName": "Choose your add-ons",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "900000035-a0",
+                                                                            "name": "Veg Raita",
+                                                                            "price": 4900,
+                                                                            "isVeg": 1,
+                                                                            "inStock": 1,
+                                                                            "isExcluded": false,
+                                                                            "isFree": false,
+                                                                            "type": "ITEM"
+                                                                        },
+                                                                        {
+                                                                            "id": "900000035-a1",
+                                                                            "name": "Boondi Raita",
+                                                                            "price": 5400,
+                                                                            "isVeg": 1,
+                                                                            "inStock": 1,
+                                                                            "isExcluded": false,
+                                                                            "isFree": false,
+                                                                            "type": "ITEM"
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": 2,
+                                                                    "maxFreeAddons": 0,
+                                                                    "minAddons": 0,
+                                                                    "required": false
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.1",
+                                                                    "ratingCount": "500+",
+                                                                    "ratingValue": "4.1"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300035",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "23900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000036",
+                                                            "name": "Egg Biryani",
+                                                            "category": "Biryani",
+                                                            "description": "Spicy masala rice layered with perfectly boiled egg masala.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/6/d3ec0df4-88c7-4776-b206-a42daede10ad_ae0d7b77-3ccf-4d51-a011-0ebdf10b549f.JPG",
+                                                            "inStock": 1,
+                                                            "price": 25900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4",
+                                                                    "ratingCount": "310+",
+                                                                    "ratingValue": "4"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300036",
+                                                            "menuFilterIds": [
+                                                                "NONVEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "25900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000037",
+                                                            "name": "Paneer Biryani",
+                                                            "category": "Biryani",
+                                                            "description": "Smoky paneer cubes layered with flavoured basmati rice and mint.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/23/1e386955-1f7f-40f5-bd18-9fb1d3ff22d1_8236c93d-d216-47cc-9288-d0017f93bec5.JPG",
+                                                            "inStock": 1,
+                                                            "price": 26900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "900000037-g1",
+                                                                    "groupName": "Choose your add-ons",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "900000037-a0",
+                                                                            "name": "Veg Raita",
+                                                                            "price": 4900,
+                                                                            "isVeg": 1,
+                                                                            "inStock": 1,
+                                                                            "isExcluded": false,
+                                                                            "isFree": false,
+                                                                            "type": "ITEM"
+                                                                        },
+                                                                        {
+                                                                            "id": "900000037-a1",
+                                                                            "name": "Gulab Jamun",
+                                                                            "price": 5400,
+                                                                            "isVeg": 1,
+                                                                            "inStock": 1,
+                                                                            "isExcluded": false,
+                                                                            "isFree": false,
+                                                                            "type": "ITEM"
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": 2,
+                                                                    "maxFreeAddons": 0,
+                                                                    "minAddons": 0,
+                                                                    "required": false
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.2",
+                                                                    "ratingCount": "280+",
+                                                                    "ratingValue": "4.2"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300037",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "26900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Kebabs & Starters",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000038",
+                                                            "name": "Chicken Tikka Kebab",
+                                                            "category": "Kebabs & Starters",
+                                                            "description": "Boneless chicken marinated in yogurt and spices, grilled in clay oven.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/31/cf505606-f67c-4405-b690-a00c64c7490d_f7f3afcc-2899-4b7b-81c8-1d1ca495a992.jpg",
+                                                            "inStock": 1,
+                                                            "price": 28900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "900000038-g1",
+                                                                    "groupName": "Choose your add-ons",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "900000038-a0",
+                                                                            "name": "Mint Chutney",
+                                                                            "price": 4900,
+                                                                            "isVeg": 0,
+                                                                            "inStock": 1,
+                                                                            "isExcluded": false,
+                                                                            "isFree": false,
+                                                                            "type": "ITEM"
+                                                                        },
+                                                                        {
+                                                                            "id": "900000038-a1",
+                                                                            "name": "Tandoori Roti",
+                                                                            "price": 5400,
+                                                                            "isVeg": 0,
+                                                                            "inStock": 1,
+                                                                            "isExcluded": false,
+                                                                            "isFree": false,
+                                                                            "type": "ITEM"
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": 2,
+                                                                    "maxFreeAddons": 0,
+                                                                    "minAddons": 0,
+                                                                    "required": false
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#E46D47",
+                                                                "topBackgroundColor": "#FCE9E1",
+                                                                "bottomBackgroundColor": "#FFD4C7"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.4",
+                                                                    "ratingCount": "720+",
+                                                                    "ratingValue": "4.4"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300038",
+                                                            "menuFilterIds": [
+                                                                "NONVEG",
+                                                                "bestseller",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "28900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000039",
+                                                            "name": "Mutton Seekh Kebab",
+                                                            "category": "Kebabs & Starters",
+                                                            "description": "Minced mutton skewers roasted with aromatic spices and herbs.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/22/5f687883-3cfb-47a8-bd30-5c7dea928928_3f63ccd2-bf2d-4222-b447-67648d69cd7e.JPG",
+                                                            "inStock": 1,
+                                                            "price": 35900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "410+",
+                                                                    "ratingValue": "4.3"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300039",
+                                                            "menuFilterIds": [
+                                                                "NONVEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "35900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000040",
+                                                            "name": "Paneer Tikka",
+                                                            "category": "Kebabs & Starters",
+                                                            "description": "Cottage cheese marinated in spiced yogurt, char-grilled to perfection.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/31/f168ce92-f0d5-49fe-8c28-187adb8c3ae6_0e1b088f-6174-4ee6-b52a-935c096b4536.jpg",
+                                                            "inStock": 1,
+                                                            "price": 27900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.2",
+                                                                    "ratingCount": "380+",
+                                                                    "ratingValue": "4.2"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300040",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "27900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000041",
+                                                            "name": "Chicken 65",
+                                                            "category": "Kebabs & Starters",
+                                                            "description": "Fiery South Indian style fried chicken tossed with curry leaves and chilies.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/18/a6707782-db0a-4604-98f4-29def0c2e82a_bbe2eb1c-e734-48ea-bf4a-aa37723a1f3b.JPG",
+                                                            "inStock": 1,
+                                                            "price": 26900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "900000041-g1",
+                                                                    "groupName": "Choose your add-ons",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "900000041-a0",
+                                                                            "name": "Mayo Dip",
+                                                                            "price": 4900,
+                                                                            "isVeg": 0,
+                                                                            "inStock": 1,
+                                                                            "isExcluded": false,
+                                                                            "isFree": false,
+                                                                            "type": "ITEM"
+                                                                        },
+                                                                        {
+                                                                            "id": "900000041-a1",
+                                                                            "name": "Raita",
+                                                                            "price": 5400,
+                                                                            "isVeg": 0,
+                                                                            "inStock": 1,
+                                                                            "isExcluded": false,
+                                                                            "isFree": false,
+                                                                            "type": "ITEM"
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": 2,
+                                                                    "maxFreeAddons": 0,
+                                                                    "minAddons": 0,
+                                                                    "required": false
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#E46D47",
+                                                                "topBackgroundColor": "#FCE9E1",
+                                                                "bottomBackgroundColor": "#FFD4C7"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "900+",
+                                                                    "ratingValue": "4.5"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300041",
+                                                            "menuFilterIds": [
+                                                                "NONVEG",
+                                                                "bestseller",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "26900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Main Course",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000042",
+                                                            "name": "Butter Chicken",
+                                                            "category": "Main Course",
+                                                            "description": "Tandoori chicken simmered in silky tomato-butter gravy with cream and kasuri methi.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/26/cda13ef8-91eb-4483-bc68-c9e7ad4ec78d_f8d2e035-412b-429b-ac02-bf1d8ccef6ce.JPG",
+                                                            "inStock": 1,
+                                                            "price": 32900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "900000042-g1",
+                                                                    "groupName": "Choose your add-ons",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "900000042-a0",
+                                                                            "name": "Butter Naan",
+                                                                            "price": 4900,
+                                                                            "isVeg": 0,
+                                                                            "inStock": 1,
+                                                                            "isExcluded": false,
+                                                                            "isFree": false,
+                                                                            "type": "ITEM"
+                                                                        },
+                                                                        {
+                                                                            "id": "900000042-a1",
+                                                                            "name": "Jeera Rice",
+                                                                            "price": 5400,
+                                                                            "isVeg": 0,
+                                                                            "inStock": 1,
+                                                                            "isExcluded": false,
+                                                                            "isFree": false,
+                                                                            "type": "ITEM"
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": 2,
+                                                                    "maxFreeAddons": 0,
+                                                                    "minAddons": 0,
+                                                                    "required": false
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#E46D47",
+                                                                "topBackgroundColor": "#FCE9E1",
+                                                                "bottomBackgroundColor": "#FFD4C7"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.6",
+                                                                    "ratingCount": "1500+",
+                                                                    "ratingValue": "4.6"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300042",
+                                                            "menuFilterIds": [
+                                                                "NONVEG",
+                                                                "bestseller",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "32900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000043",
+                                                            "name": "Chicken Dum Handi",
+                                                            "category": "Main Course",
+                                                            "description": "Chicken slow-cooked in a thick gravy of onions, tomatoes and whole spices.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/21/c5d68456-5094-4be1-b2c7-216a09472146_482aa485-86aa-457b-a739-4d4b11da4a61.JPG",
+                                                            "inStock": 1,
+                                                            "price": 35900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "600+",
+                                                                    "ratingValue": "4.3"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300043",
+                                                            "menuFilterIds": [
+                                                                "NONVEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "35900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000044",
+                                                            "name": "Paneer Butter Masala",
+                                                            "category": "Main Course",
+                                                            "description": "Soft paneer in a rich, creamy tomato-cashew gravy.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/8/36e98aa6-f3e7-4558-be35-cac05fd8b30d_593a234a-0033-44ae-8d59-294b82b4b069.JPG",
+                                                            "inStock": 1,
+                                                            "price": 29900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "900000044-g1",
+                                                                    "groupName": "Choose your add-ons",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "900000044-a0",
+                                                                            "name": "Butter Naan",
+                                                                            "price": 4900,
+                                                                            "isVeg": 1,
+                                                                            "inStock": 1,
+                                                                            "isExcluded": false,
+                                                                            "isFree": false,
+                                                                            "type": "ITEM"
+                                                                        },
+                                                                        {
+                                                                            "id": "900000044-a1",
+                                                                            "name": "Tandoori Roti",
+                                                                            "price": 5400,
+                                                                            "isVeg": 1,
+                                                                            "inStock": 1,
+                                                                            "isExcluded": false,
+                                                                            "isFree": false,
+                                                                            "type": "ITEM"
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": 2,
+                                                                    "maxFreeAddons": 0,
+                                                                    "minAddons": 0,
+                                                                    "required": false
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.4",
+                                                                    "ratingCount": "820+",
+                                                                    "ratingValue": "4.4"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300044",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "29900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000045",
+                                                            "name": "Dal Tadka",
+                                                            "category": "Main Course",
+                                                            "description": "Yellow lentils tempered with garlic, cumin and red chillies.",
+                                                            "imageId": "kdlhbpzgpaoy7zqhvv5y",
+                                                            "inStock": 1,
+                                                            "price": 21900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.1",
+                                                                    "ratingCount": "350+",
+                                                                    "ratingValue": "4.1"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300045",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "21900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Breads & Rice",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000046",
+                                                            "name": "Butter Naan",
+                                                            "category": "Breads & Rice",
+                                                            "description": "Soft leavened flatbread brushed with butter.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/30/db3796fc-8343-4e61-9461-850adb0a26c8_930cf3dc-9287-4423-9f4e-4970f4c99104.JPG",
+                                                            "inStock": 1,
+                                                            "price": 4900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "2000+",
+                                                                    "ratingValue": "4.3"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300046",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "4900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000047",
+                                                            "name": "Garlic Naan",
+                                                            "category": "Breads & Rice",
+                                                            "description": "Naan topped with garlic and coriander, brushed with butter.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/27/81caba99-f178-41e1-bc66-6532155fabd8_7fe9d68b-4733-453c-82e5-dfa41a3b6e27.JPG",
+                                                            "inStock": 1,
+                                                            "price": 5900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.2",
+                                                                    "ratingCount": "1100+",
+                                                                    "ratingValue": "4.2"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300047",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "5900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000048",
+                                                            "name": "Tandoori Roti",
+                                                            "category": "Breads & Rice",
+                                                            "description": "Whole wheat flatbread from the clay oven.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/30/c2b0d494-dde9-42af-98f5-bff77ac07f41_9555a968-4619-4061-8774-35c031941e0e.JPG",
+                                                            "inStock": 1,
+                                                            "price": 3900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4",
+                                                                    "ratingCount": "900+",
+                                                                    "ratingValue": "4"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300048",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "3900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000049",
+                                                            "name": "Jeera Rice",
+                                                            "category": "Breads & Rice",
+                                                            "description": "Steamed basmati rice tempered with cumin seeds.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/19/f81b0f35-98d6-40b4-b634-fdb76675044d_07534093-069e-4ccb-93ac-4416c247d453.JPG",
+                                                            "inStock": 1,
+                                                            "price": 18900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4",
+                                                                    "ratingCount": "450+",
+                                                                    "ratingValue": "4"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300049",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "18900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000050",
+                                                            "name": "Veg Pulao",
+                                                            "category": "Breads & Rice",
+                                                            "description": "Fragrant rice cooked with vegetables and whole spices.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/14/ad3ca028-c9c8-4c2f-82fd-1e533d939dfb_0cf13249-1950-4313-b26b-0ea7be31a8f3.JPG",
+                                                            "inStock": 1,
+                                                            "price": 20900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.1",
+                                                                    "ratingCount": "300+",
+                                                                    "ratingValue": "4.1"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300050",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "20900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Beverages & Desserts",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000051",
+                                                            "name": "Sweet Lassi",
+                                                            "category": "Beverages & Desserts",
+                                                            "description": "Thick and creamy traditional sweet lassi.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/8/8571a862-93a5-4fdb-b0a2-59921e1b1ce4_cc68bdfd-595b-4624-aac9-6095a03e6762.JPG",
+                                                            "inStock": 1,
+                                                            "price": 9900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#E46D47",
+                                                                "topBackgroundColor": "#FCE9E1",
+                                                                "bottomBackgroundColor": "#FFD4C7"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "700+",
+                                                                    "ratingValue": "4.3"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300051",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "bestseller",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "9900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000052",
+                                                            "name": "Masala Chai",
+                                                            "category": "Beverages & Desserts",
+                                                            "description": "Hot tea brewed with milk and a blend of spices.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/14/68e73944-e2bc-4606-9308-a2b838620a53_7ff235a3-0627-4f9a-92ac-fd77ad5f5315.JPG",
+                                                            "inStock": 1,
+                                                            "price": 5900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4",
+                                                                    "ratingCount": "500+",
+                                                                    "ratingValue": "4"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300052",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "5900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000053",
+                                                            "name": "Gulab Jamun",
+                                                            "category": "Beverages & Desserts",
+                                                            "description": "Soft khoya dumplings soaked in rose-scented sugar syrup.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/11/15/98216506-1d88-4276-ac06-92056f875cc6_7a8ca218-713d-488a-8d1d-3e1eb85cbf1e.jpg",
+                                                            "inStock": 1,
+                                                            "price": 8900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.4",
+                                                                    "ratingCount": "650+",
+                                                                    "ratingValue": "4.4"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300053",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "8900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000054",
+                                                            "name": "Double Ka Meetha",
+                                                            "category": "Beverages & Desserts",
+                                                            "description": "Hyderabadi bread pudding with saffron and dry fruits.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/11/15/bad96266-8663-42c6-8842-2b01b1cc8677_7ca6d3fe-268d-48fb-a4b6-9baea13976c2.png_compressed",
+                                                            "inStock": 1,
+                                                            "price": 12900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.2",
+                                                                    "ratingCount": "180+",
+                                                                    "ratingValue": "4.2"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300054",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "12900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.FAQSection",
+                                            "title": "FAQs about RNR Biryani - Taste of 1953",
+                                            "qnas": [
+                                                {
+                                                    "question": "Does RNR Biryani - Taste of 1953 deliver food in Rajajinagar on Swiggy?",
+                                                    "answer": "Yes, RNR Biryani - Taste of 1953 delivers food in Rajajinagar through Swiggy. Customers can order their favorite dishes online and enjoy doorstep delivery."
+                                                },
+                                                {
+                                                    "question": "What is RNR Biryani - Taste of 1953 known for?",
+                                                    "answer": "RNR Biryani - Taste of 1953 is known for its popular dishes and authentic flavours."
+                                                },
+                                                {
+                                                    "question": "Does RNR Biryani - Taste of 1953 offer vegetarian options?",
+                                                    "answer": "Yes, the restaurant offers both options, including a wide range of vegetarian items."
+                                                },
+                                                {
+                                                    "question": "How can I order from RNR Biryani - Taste of 1953 online?",
+                                                    "answer": "Customers can open the Swiggy app or website, search for RNR Biryani - Taste of 1953 in Rajajinagar, browse the menu, add dishes to the cart, and place the order online."
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                                            "type": "FSSAI",
+                                            "imageId": "fssai_final_edss9i",
+                                            "text": [
+                                                "License No. 22122020001237"
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                                            "name": "RNR Biryani - Taste of 1953",
+                                            "area": "Rajajinagar",
+                                            "completeAddress": "Main Road, Rajajinagar, Bangalore, Karnataka - 560001"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.PopularSearches",
+                                            "title": "Popular Searches",
+                                            "interlinkingSeoInfo": [
+                                                {
+                                                    "title": "Popular Restaurant In Rajajinagar",
+                                                    "links": [
+                                                        {
+                                                            "label": "Biryani",
+                                                            "url": "https://www.swiggy.com/city/bangalore/biryani-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "South Indian",
+                                                            "url": "https://www.swiggy.com/city/bangalore/south-indian-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Kebabs",
+                                                            "url": "https://www.swiggy.com/city/bangalore/kebabs-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Pizza",
+                                                            "url": "https://www.swiggy.com/city/bangalore/pizza-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Biryani",
+                                                            "url": "https://www.swiggy.com/city/bangalore/biryani-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Burger",
+                                                            "url": "https://www.swiggy.com/city/bangalore/burger-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Dosa",
+                                                            "url": "https://www.swiggy.com/city/bangalore/dosa-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Noodles",
+                                                            "url": "https://www.swiggy.com/city/bangalore/noodles-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Cake",
+                                                            "url": "https://www.swiggy.com/city/bangalore/cake-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Coffee",
+                                                            "url": "https://www.swiggy.com/city/bangalore/coffee-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Sandwich",
+                                                            "url": "https://www.swiggy.com/city/bangalore/sandwich-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Pasta",
+                                                            "url": "https://www.swiggy.com/city/bangalore/pasta-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Shake",
+                                                            "url": "https://www.swiggy.com/city/bangalore/shake-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Ice Cream",
+                                                            "url": "https://www.swiggy.com/city/bangalore/ice-cream-dish-restaurants"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.SeoFooter",
+                                            "socialLinks": [
+                                                {
+                                                    "label": "Linkedin",
+                                                    "url": "https://www.linkedin.com/company/swiggy-in/"
+                                                },
+                                                {
+                                                    "label": "Instagram",
+                                                    "url": "https://www.instagram.com/swiggyindia/?hl=en"
+                                                },
+                                                {
+                                                    "label": "Facebook",
+                                                    "url": "https://www.facebook.com/swiggy.in/"
+                                                },
+                                                {
+                                                    "label": "Pinterest",
+                                                    "url": "https://in.pinterest.com/swiggyindia/"
+                                                },
+                                                {
+                                                    "label": "Twitter",
+                                                    "url": "https://twitter.com/Swiggy?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.AppInstallLinks",
+                                            "title": "For better experience,download the Swiggy app now",
+                                            "androidAppImage": "portal/m/play_store.png",
+                                            "androidAppLink": "https://play.google.com/store/apps/details?id=in.swiggy.android&referrer=utm_source%3Dswiggy%26utm_medium%3Dheader",
+                                            "iosAppImage": "portal/m/app_store.png",
+                                            "iosAppLink": "https://itunes.apple.com/in/app/id989540920?referrer=utm_source%3Dswiggy%26utm_medium%3Dhomepage"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.PageMetaInfo",
+                                            "title": "Order from RNR Biryani - Taste of 1953 online in Rajajinagar | Swiggy",
+                                            "description": "Order Online from RNR Biryani - Taste of 1953 in Rajajinagar, Bangalore for delicious biryani south indian kebabs food. Enjoy fast delivery with Swiggy.",
+                                            "keywords": "RNR Biryani - Taste of 1953, Rajajinagar, Bangalore, Biryani, South Indian, Kebabs, food delivery, order food online"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ],
+        "firstOffsetRequest": true,
+        "isQCLink": false
+    }
+}

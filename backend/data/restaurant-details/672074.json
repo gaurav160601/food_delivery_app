@@ -1,0 +1,1340 @@
+{
+    "statusCode": 0,
+    "data": {
+        "statusMessage": "done successfully",
+        "cards": [
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+                        "text": "Subway",
+                        "headerStyling": {
+                            "textColor": "text_Highest_Emphasis",
+                            "textVariant": "header_H3_Black"
+                        }
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+                        "tabs": [
+                            {
+                                "id": "Order Online",
+                                "title": "Order Online"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                        "info": {
+                            "id": "672074",
+                            "name": "Subway",
+                            "city": "Bangalore",
+                            "slugs": {
+                                "restaurant": "subway-sobha_mall",
+                                "city": "bangalore"
+                            },
+                            "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/12/8f9a90a5-4f89-4234-b4ed-a840580dbe52_672074.jpg",
+                            "locality": "Ashok Nagar",
+                            "areaName": "Sobha Mall",
+                            "costForTwo": "₹350 for two",
+                            "costForTwoMessage": "₹NaN for two",
+                            "cuisines": [
+                                "sandwich",
+                                "Salads",
+                                "wrap",
+                                "Healthy Food"
+                            ],
+                            "avgRating": 4.4,
+                            "feeDetails": {
+                                "restaurantId": "672074",
+                                "fees": [
+                                    {}
+                                ]
+                            },
+                            "parentId": "2",
+                            "avgRatingString": "4.4",
+                            "totalRatingsString": "2.7K+",
+                            "sla": {
+                                "restaurantId": "672074",
+                                "deliveryTime": 37,
+                                "minDeliveryTime": 25,
+                                "maxDeliveryTime": 35,
+                                "lastMileTravel": 2,
+                                "serviceability": "SERVICEABLE",
+                                "stressFactor": 1,
+                                "rainMode": "RAIN_MODE_NONE",
+                                "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                                "zoneId": 68,
+                                "slaString": "35-45 mins",
+                                "lastMileTravelString": "2.0 km",
+                                "iconType": "ICON_TYPE_EMPTY"
+                            },
+                            "availability": {
+                                "nextCloseTime": "2026-08-02 03:00:00",
+                                "opened": true,
+                                "visibility": true,
+                                "restaurantClosedMeta": {}
+                            },
+                            "aggregatedDiscountInfo": {
+                                "header": "ITEMS",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "ITEMS | Use WELCOME",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "FREE DELIVERY",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "ITEMS | Use WELCOME Above ₹199",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "FREE DELIVERY",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "visible": true
+                            },
+                            "badges": {
+                                "imageBadges": [
+                                    {
+                                        "imageId": "Health%20Hub/RX%20BADGE/BADGE2.png",
+                                        "description": "Meals with high protein, low calorie and no added sugar"
+                                    },
+                                    {
+                                        "imageId": "brand_cards/Badges%202026/79_Best%20in%20Subs%20&%20Sandwiches2026.png",
+                                        "description": "Top-rated for Subs & Sandwiches, based on user votes."
+                                    }
+                                ]
+                            },
+                            "slugString": "subway-sobha_mall",
+                            "labels": [
+                                {
+                                    "title": "Timings",
+                                    "message": "null"
+                                },
+                                {
+                                    "title": "Address",
+                                    "message": "Ashok Nagar, Sobha Mall, Bangalore, Karnataka 560001"
+                                },
+                                {
+                                    "title": "Cuisines",
+                                    "message": "sandwich,Salads,wrap,Healthy Food"
+                                }
+                            ],
+                            "totalRatings": 1200,
+                            "aggregatedDiscountInfoV2": {
+                                "header": "ITEMS",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "ITEMS | Use WELCOME",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "FREE DELIVERY",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "ITEMS | Use WELCOME Above ₹199",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "FREE DELIVERY",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "couponDetailsCta": "View coupon details"
+                            },
+                            "type": "F",
+                            "similarRestaurantAvailable": "false",
+                            "headerBanner": {
+                                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/672074"
+                            },
+                            "tradeCampaignHeadersV2": [
+                                {
+                                    "discountType": "Percentage"
+                                },
+                                {
+                                    "discountType": "FREE_DELIVERY"
+                                }
+                            ],
+                            "availabilityServiceabilityMessage": "Temporarily closed for delivery",
+                            "orderabilityCommunication": {
+                                "title": {
+                                    "text": "Currently"
+                                },
+                                "subTitle": {
+                                    "text": "CLOSED"
+                                },
+                                "message": {
+                                    "text": "Uh-oh! Outlet is not accepting orders at the moment. They should be back by 11:00 AM",
+                                    "textColour": "primary"
+                                },
+                                "customIcon": {
+                                    "bgGradientColorStart": "#EB8322",
+                                    "bgGradientColorEnd": "#EE5803"
+                                },
+                                "commsStyling": {}
+                            },
+                            "hasBestsellerItems": true,
+                            "cartOrderabilityNudgeBanner": {
+                                "parameters": {},
+                                "presentation": {}
+                            },
+                            "latLong": "12.9715987,77.5945627",
+                            "backgroundImageOverlayInfo": {},
+                            "featuredSectionInfo": {},
+                            "timingsInfo": {
+                                "status": "Closed",
+                                "message": "Opens 11:00 am",
+                                "outletTiming": {
+                                    "infoList": [
+                                        {
+                                            "title": "Monday",
+                                            "subtitle": "11.00AM - 11.00PM",
+                                            "titleColor": "text_high_emphasis",
+                                            "subtitleColor": "text_high_emphasis"
+                                        },
+                                        {
+                                            "title": "Tuesday",
+                                            "subtitle": "11.00AM - 11.00PM",
+                                            "titleColor": "text_high_emphasis",
+                                            "subtitleColor": "text_high_emphasis"
+                                        },
+                                        {
+                                            "title": "Wednesday",
+                                            "subtitle": "11.00AM - 11.00PM",
+                                            "titleColor": "text_high_emphasis",
+                                            "subtitleColor": "text_high_emphasis"
+                                        },
+                                        {
+                                            "title": "Thursday",
+                                            "subtitle": "11.00AM - 11.00PM",
+                                            "titleColor": "text_high_emphasis",
+                                            "subtitleColor": "text_high_emphasis"
+                                        },
+                                        {
+                                            "title": "Friday",
+                                            "subtitle": "11.00AM - 11.00PM",
+                                            "titleColor": "text_high_emphasis",
+                                            "subtitleColor": "text_high_emphasis"
+                                        },
+                                        {
+                                            "title": "Saturday",
+                                            "subtitle": "11.00AM - 11.00PM",
+                                            "titleColor": "primary",
+                                            "subtitleColor": "primary"
+                                        },
+                                        {
+                                            "title": "Sunday",
+                                            "subtitle": "11.00AM - 11.00PM",
+                                            "titleColor": "text_high_emphasis",
+                                            "subtitleColor": "text_high_emphasis"
+                                        }
+                                    ],
+                                    "title": "Outlet timings"
+                                },
+                                "styleInfo": {
+                                    "titleColor": "negative",
+                                    "subtitleColor": "text_color_low_emphasis"
+                                }
+                            },
+                            "phone": "9109124323",
+                            "postalCode": "560001",
+                            "state": "Karnataka"
+                        },
+                        "analytics": {}
+                    },
+                    "relevance": {
+                        "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_AND_SHOW_MENU_OFFER_NUDGE",
+                        "sectionId": "MENU_ITEM_CART_UPDATE_POP_CROUTON"
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+                        "layout": {
+                            "rows": 1,
+                            "columns": 5,
+                            "horizontalScrollEnabled": true,
+                            "itemSpacing": 12,
+                            "lineSpacing": 10,
+                            "widgetPadding": {},
+                            "containerStyle": {
+                                "containerPadding": {
+                                    "left": 10,
+                                    "right": 10,
+                                    "bottom": 16
+                                }
+                            }
+                        },
+                        "id": "offerCollectionWidget_UX4",
+                        "gridElements": {
+                            "infoWithStyle": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                                "offers": [
+                                    {
+                                        "info": {
+                                            "header": "50% OFF UPTO ₹130",
+                                            "offerTag": "DEFAULT",
+                                            "offerTagColor": "#E46D47",
+                                            "offerIds": [
+                                                "672074-offer-0"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE WELCOME",
+                                            "description": "ABOVE ₹179",
+                                            "offerType": "offers",
+                                            "restId": "672074",
+                                            "offerLogo": "offers/generic",
+                                            "descriptionTextColor": "#7302060C",
+                                            "primaryDescription": "USE WELCOME"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "ITEMS AT ₹149",
+                                            "offerTag": "FLAT DEAL",
+                                            "offerTagColor": "#E46D47",
+                                            "offerIds": [
+                                                "672074-offer-1"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE DEALZONE",
+                                            "description": "ON SELECT ITEMS |",
+                                            "offerType": "offers",
+                                            "restId": "672074",
+                                            "offerLogo": "offers/deal-of-day",
+                                            "descriptionTextColor": "#7302060C",
+                                            "primaryDescription": "USE DEALZONE"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "FLAT ₹100 OFF",
+                                            "offerTag": "DEFAULT",
+                                            "offerTagColor": "#E46D47",
+                                            "offerIds": [
+                                                "672074-offer-2"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE FLAVORFUL",
+                                            "description": "ABOVE ₹249",
+                                            "offerType": "offers",
+                                            "restId": "672074",
+                                            "offerLogo": "offers/deal-of-day",
+                                            "descriptionTextColor": "#7302060C",
+                                            "primaryDescription": "USE FLAVORFUL"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "FREE DELIVERY",
+                                            "offerTag": "FLAT DEAL",
+                                            "offerTagColor": "#E46D47",
+                                            "offerIds": [
+                                                "672074-offer-3"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE PARTY",
+                                            "description": "NO MINIMUM ORDER",
+                                            "offerType": "offers",
+                                            "restId": "672074",
+                                            "offerLogo": "offers/generic",
+                                            "descriptionTextColor": "#7302060C",
+                                            "primaryDescription": "USE PARTY"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "FLAT 15% OFF",
+                                            "offerTag": "DEFAULT",
+                                            "offerTagColor": "#E46D47",
+                                            "offerIds": [
+                                                "672074-offer-4"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE GRANDFEAST",
+                                            "description": "ABOVE ₹599",
+                                            "offerType": "offers",
+                                            "restId": "672074",
+                                            "offerLogo": "offers/deal-of-day",
+                                            "descriptionTextColor": "#7302060C",
+                                            "primaryDescription": "USE GRANDFEAST"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    }
+                                ],
+                                "habitMilestoneInfo": {
+                                    "callout": {}
+                                },
+                                "loyaltyDiscoverPresentationInfo": {
+                                    "logoCtx": {}
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "groupedCard": {
+                    "cardGroupMap": {
+                        "REGULAR": {
+                            "cards": [
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                                            "badges": {},
+                                            "vegOnlyDetails": {
+                                                "imageId": "AutoVegOnly_qkjowj",
+                                                "title": "Showing only vegetarian options.",
+                                                "description": "Tap on the VEG ONLY button to turn off the setting"
+                                            },
+                                            "topRatedFilter": {
+                                                "attributes": {
+                                                    "displayText": "Ratings 4.0+"
+                                                }
+                                            },
+                                            "kidsCategoryFilter": {
+                                                "attributes": {
+                                                    "displayText": "Kids Favourites",
+                                                    "tooltip": {
+                                                        "enabled": true,
+                                                        "displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+                                                    }
+                                                }
+                                            },
+                                            "vegFilter": {
+                                                "attributes": {
+                                                    "displayText": "VEG"
+                                                }
+                                            },
+                                            "nonvegFilter": {
+                                                "attributes": {
+                                                    "displayText": "NONVEG"
+                                                }
+                                            }
+                                        },
+                                        "relevance": {
+                                            "type": "RELEVANCE_TYPE_ON_MENU_FILTER_TOGGLED",
+                                            "sectionId": "MENU_FILTER_TOGGLE"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Sub Sandwiches",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000055",
+                                                            "name": "Veggie Delite Sub",
+                                                            "category": "Sub Sandwiches",
+                                                            "description": "Crunchy vegetables with a tangy dressing in a soft sub.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/27/64a2b749-1db3-4e15-b07e-28273cbf161d_34879d68-48f1-4f1b-a17c-47ed75dc49d3.JPG",
+                                                            "inStock": 1,
+                                                            "price": 15900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "900000055-g1",
+                                                                    "groupName": "Choose your add-ons",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "900000055-a0",
+                                                                            "name": "Extra Cheese",
+                                                                            "price": 4900,
+                                                                            "isVeg": 1,
+                                                                            "inStock": 1,
+                                                                            "isExcluded": false,
+                                                                            "isFree": false,
+                                                                            "type": "ITEM"
+                                                                        },
+                                                                        {
+                                                                            "id": "900000055-a1",
+                                                                            "name": "Double Veggies",
+                                                                            "price": 5400,
+                                                                            "isVeg": 1,
+                                                                            "inStock": 1,
+                                                                            "isExcluded": false,
+                                                                            "isFree": false,
+                                                                            "type": "ITEM"
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": 2,
+                                                                    "maxFreeAddons": 0,
+                                                                    "minAddons": 0,
+                                                                    "required": false
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#E46D47",
+                                                                "topBackgroundColor": "#FCE9E1",
+                                                                "bottomBackgroundColor": "#FFD4C7"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.2",
+                                                                    "ratingCount": "1500+",
+                                                                    "ratingValue": "4.2"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300055",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "bestseller",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "15900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000056",
+                                                            "name": "Chicken Tikka Sub",
+                                                            "category": "Sub Sandwiches",
+                                                            "description": "Spicy chicken tikka with onions and mint mayo.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/22/3641316b-b2dc-4312-a310-2e59b2e95de2_a539e887-ad53-4e0a-ba0d-31cfe64c724a.JPG",
+                                                            "inStock": 1,
+                                                            "price": 21900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "1200+",
+                                                                    "ratingValue": "4.3"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300056",
+                                                            "menuFilterIds": [
+                                                                "NONVEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "21900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000057",
+                                                            "name": "Egg Mayo Sub",
+                                                            "category": "Sub Sandwiches",
+                                                            "description": "Egg salad with mayo, lettuce and cucumber.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/14/e00bb19a-3e51-43bc-ab15-8695cc956fd9_6b6a3414-a271-49e0-95bd-203292e744c7.JPG",
+                                                            "inStock": 1,
+                                                            "price": 17900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.1",
+                                                                    "ratingCount": "800+",
+                                                                    "ratingValue": "4.1"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300057",
+                                                            "menuFilterIds": [
+                                                                "NONVEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "17900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000058",
+                                                            "name": "Chicken BBQ Sub",
+                                                            "category": "Sub Sandwiches",
+                                                            "description": "BBQ chicken with cheese and crunchy onions.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/12/4/b45f21a4-1319-428f-84cb-1f1f4941b099_e6875ebf-cb08-468f-94fc-9f73ca699cef.jpg",
+                                                            "inStock": 1,
+                                                            "price": 23900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.2",
+                                                                    "ratingCount": "900+",
+                                                                    "ratingValue": "4.2"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300058",
+                                                            "menuFilterIds": [
+                                                                "NONVEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "23900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000059",
+                                                            "name": "Paneer Tikka Sub",
+                                                            "category": "Sub Sandwiches",
+                                                            "description": "Tandoori paneer with peppers and chipotle.",
+                                                            "imageId": "zdhvp16taomwukt5tj8r",
+                                                            "inStock": 1,
+                                                            "price": 19900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4",
+                                                                    "ratingCount": "700+",
+                                                                    "ratingValue": "4"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300059",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "19900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Wraps & Rolls",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000060",
+                                                            "name": "Veggie Wrap",
+                                                            "category": "Wraps & Rolls",
+                                                            "description": "Veggies wrapped in a soft tortilla with mint sauce.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/6/04a3d65b-da99-4c62-8021-5abac1d214bb_2d0f6c2a-138e-4aa4-988a-9024bfe829e5.JPG",
+                                                            "inStock": 1,
+                                                            "price": 14900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.1",
+                                                                    "ratingCount": "700+",
+                                                                    "ratingValue": "4.1"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300060",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "14900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000061",
+                                                            "name": "Chicken Wrap",
+                                                            "category": "Wraps & Rolls",
+                                                            "description": "Grilled chicken, veggies and sauce in a tortilla.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/17/d36d7bd1-6f74-4d4f-b1ac-8fe932a15837_b76c7f72-6a3a-4148-aea8-c7cdad810166.JPG",
+                                                            "inStock": 1,
+                                                            "price": 18900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.2",
+                                                                    "ratingCount": "800+",
+                                                                    "ratingValue": "4.2"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300061",
+                                                            "menuFilterIds": [
+                                                                "NONVEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "18900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000062",
+                                                            "name": "Egg Wrap",
+                                                            "category": "Wraps & Rolls",
+                                                            "description": "Scrambled egg with veggies in a wrap.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/14/9ad1c07e-8831-4234-975a-6cdfa344beed_200b0d59-a398-4194-85ec-acc6e56e038c.JPG",
+                                                            "inStock": 1,
+                                                            "price": 15900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4",
+                                                                    "ratingCount": "500+",
+                                                                    "ratingValue": "4"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300062",
+                                                            "menuFilterIds": [
+                                                                "NONVEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "15900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Salads & Sides",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000063",
+                                                            "name": "Garden Salad",
+                                                            "category": "Salads & Sides",
+                                                            "description": "Fresh veggies with light dressing.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/6/f784c804-caf2-47c5-8eb4-1a79f18427fa_fd4ad43e-ba46-4209-8d69-a8677ec4d05d.JPG",
+                                                            "inStock": 1,
+                                                            "price": 12900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4",
+                                                                    "ratingCount": "600+",
+                                                                    "ratingValue": "4"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300063",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "12900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000064",
+                                                            "name": "Chicken Salad",
+                                                            "category": "Salads & Sides",
+                                                            "description": "Grilled chicken with mixed greens.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/11/19/2845404a-5e9a-460e-a2f3-cbb104ce3bcf_140a6922-6447-4ba8-a074-60e310493e28.jpg",
+                                                            "inStock": 1,
+                                                            "price": 16900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.1",
+                                                                    "ratingCount": "550+",
+                                                                    "ratingValue": "4.1"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300064",
+                                                            "menuFilterIds": [
+                                                                "NONVEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "16900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000065",
+                                                            "name": "Crunchy Chips",
+                                                            "category": "Salads & Sides",
+                                                            "description": "Crispy potato chips.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/11/19/2845404a-5e9a-460e-a2f3-cbb104ce3bcf_140a6922-6447-4ba8-a074-60e310493e28.jpg",
+                                                            "inStock": 1,
+                                                            "price": 4900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4",
+                                                                    "ratingCount": "400+",
+                                                                    "ratingValue": "4"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300065",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "4900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Beverages",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000066",
+                                                            "name": "Cold Coffee",
+                                                            "category": "Beverages",
+                                                            "description": "Chilled creamy cold coffee.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/8/8571a862-93a5-4fdb-b0a2-59921e1b1ce4_cc68bdfd-595b-4624-aac9-6095a03e6762.JPG",
+                                                            "inStock": 1,
+                                                            "price": 14900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.2",
+                                                                    "ratingCount": "500+",
+                                                                    "ratingValue": "4.2"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300066",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "14900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000067",
+                                                            "name": "Iced Tea",
+                                                            "category": "Beverages",
+                                                            "description": "Refreshing iced tea with lemon.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/11/19/e1eac873-9f3a-4ce5-a576-068b25bef6bb_26ef2c57-df5f-456b-abb8-a227a9c1877c.jpg",
+                                                            "inStock": 1,
+                                                            "price": 11900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4",
+                                                                    "ratingCount": "400+",
+                                                                    "ratingValue": "4"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300067",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "11900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "900000068",
+                                                            "name": "Soft Drink",
+                                                            "category": "Beverages",
+                                                            "description": "Chilled fizzy drink.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/18/a6707782-db0a-4604-98f4-29def0c2e82a_bbe2eb1c-e734-48ea-bf4a-aa37723a1f3b.JPG",
+                                                            "inStock": 1,
+                                                            "price": 8900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "3.9",
+                                                                    "ratingCount": "350+",
+                                                                    "ratingValue": "3.9"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true,
+                                                            "parentId": "899300068",
+                                                            "menuFilterIds": [
+                                                                "VEG",
+                                                                "toprated"
+                                                            ],
+                                                            "priceComparisonComms": {},
+                                                            "instrumentationMetaMap": {
+                                                                "swiggy_listing_price": "8900",
+                                                                "swiggy_final_price": "0"
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.FAQSection",
+                                            "title": "FAQs about Subway",
+                                            "qnas": [
+                                                {
+                                                    "question": "Does Subway deliver food in Sobha Mall on Swiggy?",
+                                                    "answer": "Yes, Subway delivers food in Sobha Mall through Swiggy. Customers can order their favorite dishes online and enjoy doorstep delivery."
+                                                },
+                                                {
+                                                    "question": "What is Subway known for?",
+                                                    "answer": "Subway is known for its popular dishes and authentic flavours."
+                                                },
+                                                {
+                                                    "question": "Does Subway offer vegetarian options?",
+                                                    "answer": "Yes, the restaurant offers both options, including a wide range of vegetarian items."
+                                                },
+                                                {
+                                                    "question": "How can I order from Subway online?",
+                                                    "answer": "Customers can open the Swiggy app or website, search for Subway in Sobha Mall, browse the menu, add dishes to the cart, and place the order online."
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                                            "type": "FSSAI",
+                                            "imageId": "fssai_final_edss9i",
+                                            "text": [
+                                                "License No. 22122020001237"
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                                            "name": "Subway",
+                                            "area": "Sobha Mall",
+                                            "completeAddress": "Main Road, Sobha Mall, Bangalore, Karnataka - 560001"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.PopularSearches",
+                                            "title": "Popular Searches",
+                                            "interlinkingSeoInfo": [
+                                                {
+                                                    "title": "Popular Restaurant In Sobha Mall",
+                                                    "links": [
+                                                        {
+                                                            "label": "sandwich",
+                                                            "url": "https://www.swiggy.com/city/bangalore/sandwich-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Salads",
+                                                            "url": "https://www.swiggy.com/city/bangalore/salads-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "wrap",
+                                                            "url": "https://www.swiggy.com/city/bangalore/wrap-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Healthy Food",
+                                                            "url": "https://www.swiggy.com/city/bangalore/healthy-food-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Pizza",
+                                                            "url": "https://www.swiggy.com/city/bangalore/pizza-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Biryani",
+                                                            "url": "https://www.swiggy.com/city/bangalore/biryani-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Burger",
+                                                            "url": "https://www.swiggy.com/city/bangalore/burger-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Dosa",
+                                                            "url": "https://www.swiggy.com/city/bangalore/dosa-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Noodles",
+                                                            "url": "https://www.swiggy.com/city/bangalore/noodles-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Cake",
+                                                            "url": "https://www.swiggy.com/city/bangalore/cake-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Coffee",
+                                                            "url": "https://www.swiggy.com/city/bangalore/coffee-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Sandwich",
+                                                            "url": "https://www.swiggy.com/city/bangalore/sandwich-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Pasta",
+                                                            "url": "https://www.swiggy.com/city/bangalore/pasta-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Shake",
+                                                            "url": "https://www.swiggy.com/city/bangalore/shake-dish-restaurants"
+                                                        },
+                                                        {
+                                                            "label": "Ice Cream",
+                                                            "url": "https://www.swiggy.com/city/bangalore/ice-cream-dish-restaurants"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.SeoFooter",
+                                            "socialLinks": [
+                                                {
+                                                    "label": "Linkedin",
+                                                    "url": "https://www.linkedin.com/company/swiggy-in/"
+                                                },
+                                                {
+                                                    "label": "Instagram",
+                                                    "url": "https://www.instagram.com/swiggyindia/?hl=en"
+                                                },
+                                                {
+                                                    "label": "Facebook",
+                                                    "url": "https://www.facebook.com/swiggy.in/"
+                                                },
+                                                {
+                                                    "label": "Pinterest",
+                                                    "url": "https://in.pinterest.com/swiggyindia/"
+                                                },
+                                                {
+                                                    "label": "Twitter",
+                                                    "url": "https://twitter.com/Swiggy?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.AppInstallLinks",
+                                            "title": "For better experience,download the Swiggy app now",
+                                            "androidAppImage": "portal/m/play_store.png",
+                                            "androidAppLink": "https://play.google.com/store/apps/details?id=in.swiggy.android&referrer=utm_source%3Dswiggy%26utm_medium%3Dheader",
+                                            "iosAppImage": "portal/m/app_store.png",
+                                            "iosAppLink": "https://itunes.apple.com/in/app/id989540920?referrer=utm_source%3Dswiggy%26utm_medium%3Dhomepage"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.PageMetaInfo",
+                                            "title": "Order from Subway online in Sobha Mall | Swiggy",
+                                            "description": "Order Online from Subway in Sobha Mall, Bangalore for delicious sandwich salads wrap healthy food food. Enjoy fast delivery with Swiggy.",
+                                            "keywords": "Subway, Sobha Mall, Bangalore, sandwich, Salads, wrap, Healthy Food, food delivery, order food online"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ],
+        "firstOffsetRequest": true,
+        "isQCLink": false
+    }
+}

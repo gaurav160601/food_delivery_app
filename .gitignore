@@ -1,0 +1,23 @@
+# dependencies
+node_modules/
+**/node_modules/
+
+# build output
+dist/
+.parcel-cache/
+
+# environment
+.env
+**/.env
+
+# logs
+*.log
+
+# OS
+.DS_Store
+
+# scratch / course notes (not part of the app)
+chk3.js
+lecture-4 making compoent with har coded data.js
+APP STARTS
+react_complete_flow
